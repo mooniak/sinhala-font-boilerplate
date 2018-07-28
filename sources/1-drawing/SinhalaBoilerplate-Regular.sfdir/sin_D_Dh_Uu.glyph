@@ -1,0 +1,37 @@
+StartChar: sinDDhUu
+Encoding: 353 -1 200
+GlifName: sinD_D_hU_u
+Width: 752
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+126 -7 m 257
+ 103 20 86 71 86 126 c 256
+ 86 246 154 332 270 332 c 256
+ 286 332 303 330 320 327 c 257
+ 405 353 l 257
+ 403 362 l 257
+ 390 364 384 365 360 368 c 256
+ 341 370 322 371 303 371 c 256
+ 142 371 30 293 30 142 c 256
+ 30 74 62 18 92 -14 c 257
+ 111 -14 122 -11 126 -7 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 248 3504 N 1 0 0 1 104 0 2
+Refer: 417 -1 N 1 0 0 1 660 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinDha'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_blws subtable" sinDDha sinMatraUu
+EndChar

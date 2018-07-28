@@ -1,0 +1,34 @@
+StartChar: sinJR.virama
+Encoding: 455 -1 302
+GlifName: sinJ_R_.virama
+Width: 606
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+366 281 m 257
+ 366 556 l 257
+ 374 537 395 518 426 518 c 256
+ 476 518 495 558 495 601 c 256
+ 495 702 376 734 350 739 c 257
+ 339 729 l 257
+ 332 281 l 257
+ 366 281 l 257
+366 652 m 258
+ 366 674 l 257
+ 401 670 462 657 462 615 c 256
+ 462 594 449 584 429 584 c 256
+ 396 584 366 611 366 652 c 258
+  PathStart: -2
+EndSplineSet
+Refer: 305 -1 N 1 0 0 1 -1 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_3 subtable" sinJRa sinVirama
+EndChar

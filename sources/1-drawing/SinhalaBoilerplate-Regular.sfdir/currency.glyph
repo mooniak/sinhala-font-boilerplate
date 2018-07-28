@@ -1,0 +1,283 @@
+StartChar: currency
+Encoding: 164 164 53
+GlifName: currency
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+391 280 m 256
+ 391 363 330 422 244 422 c 256
+ 153 422 77 357 77 262 c 256
+ 77 183 134 115 227 115 c 256
+ 341 115 391 196 391 280 c 256
+  PathStart: -2
+142 263 m 256
+ 142 354 193 380 236 380 c 256
+ 283 380 329 338 329 273 c 256
+ 329 210 296 158 234 158 c 256
+ 175 158 142 204 142 263 c 256
+  PathStart: -2
+116 326 m 257
+ 142 368 l 257
+ 116 383 49 430 28 444 c 257
+ 18 433 8 416 -5 390 c 257
+ 32 372 80 347 116 326 c 257
+  PathStart: -2
+441 444 m 257
+ 421 427 357 379 330 362 c 257
+ 359 321 l 257
+ 393 343 440 370 477 391 c 257
+ 463 416 451 432 441 444 c 257
+  PathStart: -2
+43 82 m 257
+ 63 99 128 147 154 164 c 257
+ 126 205 l 257
+ 91 182 44 156 7 135 c 257
+ 22 110 33 94 43 82 c 257
+  PathStart: -2
+351 203 m 257
+ 323 162 l 257
+ 349 145 413 96 434 80 c 257
+ 444 92 455 108 470 132 c 257
+ 433 153 386 180 351 203 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+S'Jan 19 17, 15:45'
+p6
+(dp7
+S'name'
+p8
+S'currency'
+p9
+sS'lib'
+p10
+(dp11
+sS'unicodes'
+p12
+(lp13
+sS'width'
+p14
+I600
+sS'contours'
+p15
+(lp16
+(dp17
+S'points'
+p18
+(lp19
+(dp20
+S'y'
+I159
+sS'x'
+I428
+sS'smooth'
+p21
+I0
+sa(dp22
+S'y'
+I266
+sS'x'
+I481
+sg21
+I0
+sa(dp23
+S'segmentType'
+p24
+S'curve'
+p25
+sS'x'
+I481
+sg21
+I1
+sS'y'
+I374
+sa(dp26
+S'y'
+I492
+sS'x'
+I481
+sg21
+I0
+sa(dp27
+S'y'
+I538
+sS'x'
+I413
+sg21
+I0
+sa(dp28
+g24
+S'curve'
+p29
+sS'x'
+I317
+sg21
+I1
+sS'y'
+I538
+sa(dp30
+S'y'
+I538
+sS'x'
+I210
+sg21
+I0
+sa(dp31
+S'y'
+I453
+sS'x'
+I129
+sg21
+I0
+sa(dp32
+g24
+S'curve'
+p33
+sS'x'
+I129
+sg21
+I1
+sS'y'
+I330
+sa(dp34
+S'y'
+I228
+sS'x'
+I129
+sg21
+I0
+sa(dp35
+S'y'
+I159
+sS'x'
+I182
+sg21
+I0
+sa(dp36
+g24
+S'curve'
+p37
+sS'x'
+I287
+sg21
+I1
+sS'y'
+I159
+sasa(dp38
+g18
+(lp39
+(dp40
+S'y'
+I195
+sS'x'
+I232
+sg21
+I0
+sa(dp41
+S'y'
+I259
+sS'x'
+I195
+sg21
+I0
+sa(dp42
+g24
+S'curve'
+p43
+sS'x'
+I195
+sg21
+I1
+sS'y'
+I342
+sa(dp44
+S'y'
+I468
+sS'x'
+I195
+sg21
+I0
+sa(dp45
+S'y'
+I500
+sS'x'
+I261
+sg21
+I0
+sa(dp46
+g24
+S'curve'
+p47
+sS'x'
+I293
+sg21
+I1
+sS'y'
+I503
+sa(dp48
+S'y'
+I510
+sS'x'
+I363
+sg21
+I0
+sa(dp49
+S'y'
+I446
+sS'x'
+I411
+sg21
+I0
+sa(dp50
+g24
+S'curve'
+p51
+sS'x'
+I411
+sg21
+I1
+sS'y'
+I356
+sa(dp52
+S'y'
+I269
+sS'x'
+I411
+sg21
+I0
+sa(dp53
+S'y'
+I195
+sS'x'
+I370
+sg21
+I0
+sa(dp54
+g24
+S'curve'
+p55
+sS'x'
+I296
+sg21
+I1
+sS'y'
+I195
+sasasS'components'
+p56
+(lp57
+sS'anchors'
+p58
+(lp59
+sss."
+EndChar

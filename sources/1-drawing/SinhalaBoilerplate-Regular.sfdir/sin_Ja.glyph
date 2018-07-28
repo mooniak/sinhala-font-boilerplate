@@ -1,0 +1,27 @@
+StartChar: sinJa
+Encoding: 461 3490 308
+GlifName: sinJ_a
+Width: 642
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+514 437 m 256
+ 574 561 672 655 672 655 c 257
+ 672 676 644 702 630 706 c 257
+ 630 706 545 614 483 473 c 256
+ 448 393 440 303 440 303 c 257
+ 472 284 l 257
+ 472 284 475 360 514 437 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 531 3508 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

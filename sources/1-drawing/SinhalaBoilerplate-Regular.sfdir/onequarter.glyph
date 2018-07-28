@@ -1,0 +1,28 @@
+StartChar: onequarter
+Encoding: 188 188 116
+GlifName: onequarter
+Width: 637
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 83 8260 N 1 0 0 1 51 0 2
+Refer: 117 185 N 1 0 0 1 -48 -55 2
+Refer: 82 8308 N 1 0 0 1 463 -579 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'one.numr'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'one.numr'
+p7
+s."
+Ligature2: "'frac' Diagonal Fractions lookup 0 subtable" one slash four
+EndChar

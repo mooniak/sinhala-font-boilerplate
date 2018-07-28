@@ -1,0 +1,23 @@
+StartChar: underscore
+Encoding: 95 95 676
+GlifName: underscore
+Width: 515
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+477 1 m 257
+ 478 27 483 53 484 74 c 257
+ 352 69 186 66 41 74 c 257
+ 30 1 l 257
+ 477 1 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,39 @@
+StartChar: sinIi
+Encoding: 451 3466 298
+GlifName: sinI_i
+Width: 528
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+207 596 m 256
+ 210 621 189 641 164 641 c 256
+ 140 641 120 621 117 596 c 256
+ 114 571 136 551 161 551 c 256
+ 185 551 204 571 207 596 c 256
+  PathStart: -2
+492 491 m 256
+ 495 515 478 534 454 534 c 256
+ 430 534 409 515 406 491 c 256
+ 403 467 422 448 446 448 c 256
+ 470 448 489 467 492 491 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 545 3515 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinRa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinRa'
+p7
+s."
+EndChar

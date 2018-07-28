@@ -1,0 +1,40 @@
+StartChar: f_f_i
+Encoding: 273 -1 74
+GlifName: f_f_i
+Width: 908
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+880 0 m 257
+ 872 39 l 257
+ 868 39 l 258
+ 824 39 802 56 801 132 c 256
+ 798 210 805 350 820 476 c 257
+ 820 476 655 450 591 452 c 257
+ 596 402 l 257
+ 656 402 718 400 721 366 c 257
+ 723 313 724 256 724 195 c 256
+ 724 160 721 126 717 105 c 257
+ 712 68 688 47 638 47 c 258
+ 628 47 l 257
+ 636 0 l 257
+ 880 0 l 257
+EndSplineSet
+Refer: 73 -1 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'i'
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p3
+S'2018-07-27 16:12:40 +0000'
+p4
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p5
+S'f'
+s."
+Ligature2: "'liga' Standard Ligatures lookup 1 subtable" f f i
+EndChar

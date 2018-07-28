@@ -1,0 +1,37 @@
+StartChar: t
+Encoding: 116 116 668
+GlifName: t
+Width: 354
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+330 43 m 257
+ 310 69 l 257
+ 291 57 271 51 253 51 c 256
+ 223 51 194 66 182 99 c 256
+ 173 125 177 189 177 283 c 256
+ 177 312 179 358 182 390 c 257
+ 311 400 l 257
+ 302 450 l 257
+ 184 450 l 257
+ 186 506 189 562 193 610 c 257
+ 105 591 l 257
+ 104 522 104 450 104 450 c 256
+ 12 450 l 257
+ 19 398 l 257
+ 65 398 99 383 99 383 c 257
+ 102 297 91 149 91 99 c 256
+ 91 28 122 -13 195 -13 c 256
+ 258 -13 313 25 330 43 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

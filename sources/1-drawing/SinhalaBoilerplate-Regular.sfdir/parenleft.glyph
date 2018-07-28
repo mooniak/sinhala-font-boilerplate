@@ -1,0 +1,25 @@
+StartChar: parenleft
+Encoding: 40 40 120
+GlifName: parenleft
+Width: 286
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+246 -85 m 257
+ 166 14 156 147 155 248 c 256
+ 153 372 196 552 259 654 c 257
+ 204 680 l 257
+ 112 536 49 356 62 181 c 256
+ 74 32 153 -91 198 -126 c 257
+ 246 -85 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

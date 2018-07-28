@@ -1,0 +1,33 @@
+StartChar: sinBhIi
+Encoding: 320 -1 167
+GlifName: sinB_hI_i
+Width: 808
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 174 3511 N 1 0 0 1 0 0 2
+Refer: 403 -1 N 1 0 0 1 538 32 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.typemytype.robofont.guides'
+p4
+(lp5
+(dp6
+S'y'
+I890
+sS'x'
+I417
+sS'angle'
+p7
+I0
+sS'isGlobal'
+p8
+I0
+sas."
+Ligature2: "sin_abvs_2 subtable" sinBha sinMatraIi
+EndChar

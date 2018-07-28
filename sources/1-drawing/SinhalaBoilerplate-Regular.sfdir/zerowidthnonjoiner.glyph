@@ -1,0 +1,23 @@
+StartChar: zerowidthnonjoiner
+Encoding: 819 8204 685
+GlifName: zerowidthnonjoiner
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+20 9 m 257
+ -20 9 l 257
+ -20 743 l 257
+ 20 743 l 257
+ 20 9 l 257
+EndSplineSet
+Validated: 1
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,81 @@
+StartChar: sinAu
+Encoding: 307 3478 154
+GlifName: sinA_u
+Width: 1084
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 520 3476 N 1 0 0 1 0 0 2
+Refer: 406 3551 N 1 0 0 1 615 1 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinMatraLs'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.ComponentInfo'
+p6
+(lp7
+(dp8
+S'index'
+p9
+I1
+sS'name'
+p10
+S'sinMatraLs'
+p11
+sS'alignment'
+p12
+I-1
+sasS'com.typemytype.robofont.layerData'
+p13
+(dp14
+S'Jan 19 17, 02:22'
+p15
+(dp16
+g10
+S'sinAu'
+p17
+sS'lib'
+p18
+(dp19
+sS'unicodes'
+p20
+(lp21
+sS'width'
+p22
+I818
+sS'contours'
+p23
+(lp24
+sS'components'
+p25
+(lp26
+(dp27
+S'transformation'
+p28
+(lp29
+I1
+aI0
+aI0
+aI1
+aI0
+aI0
+asS'baseGlyph'
+p30
+S'sinO'
+p31
+sasS'anchors'
+p32
+(lp33
+sssS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p34
+S'sinO'
+p35
+s."
+EndChar

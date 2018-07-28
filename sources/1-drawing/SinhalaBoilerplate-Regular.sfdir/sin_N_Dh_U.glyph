@@ -1,0 +1,61 @@
+StartChar: sinNDhU
+Encoding: 597 -1 444
+GlifName: sinN_D_hU_
+Width: 1070
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+479 201 m 256
+ 478 265 442 303 382 303 c 256
+ 329 303 264 259 207 213 c 257
+ 203 197 l 257
+ 206 203 251 256 265 270 c 256
+ 333 338 511 432 647 346 c 257
+ 722 382 l 257
+ 571 499 348 400 251 295 c 256
+ 204 244 131 131 84 131 c 256
+ 62 131 57 147 62 169 c 257
+ 57 172 34 172 25 168 c 257
+ 34 83 105 -15 241 -15 c 256
+ 388 -15 481 69 479 201 c 256
+  PathStart: -2
+76 115 m 257
+ 73 103 l 257
+ 167 104 198 240 355 240 c 256
+ 415 240 451 223 451 187 c 256
+ 451 106 342 66 245 66 c 256
+ 161 66 104 78 76 115 c 257
+  PathStart: -2
+313 401 m 256
+ 313 438 286 457 235 457 c 256
+ 157 457 80 407 80 331 c 256
+ 80 303 97 286 131 286 c 256
+ 144 286 161 289 171 294 c 257
+ 164 303 156 323 156 350 c 256
+ 156 388 181 423 217 423 c 256
+ 248 423 271 395 266 357 c 256
+ 262 327 251 298 239 282 c 257
+ 247 275 l 257
+ 268 294 313 363 313 401 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 246 -1 N 1 0 0 1 422 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinDha'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinNa'
+p7
+s."
+Ligature2: "sin_blws subtable" sinNDha sinMatraU
+EndChar

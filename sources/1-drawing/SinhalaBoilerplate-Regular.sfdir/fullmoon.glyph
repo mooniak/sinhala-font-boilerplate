@@ -1,0 +1,24 @@
+StartChar: fullmoon
+Encoding: 281 127765 84
+GlifName: fullmoon
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+772 315 m 256
+ 772 519 606 685 402 685 c 256
+ 198 685 32 519 32 315 c 256
+ 32 111 198 -55 402 -55 c 256
+ 606 -55 772 111 772 315 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:20:46 +0000'
+p3
+s."
+EndChar

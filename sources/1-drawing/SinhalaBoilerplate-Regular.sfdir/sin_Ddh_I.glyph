@@ -1,0 +1,31 @@
+StartChar: sinDdhI
+Encoding: 387 -1 234
+GlifName: sinD_dhI_
+Width: 690
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+298 539 m 257
+ 286 539 206 544 206 613 c 256
+ 206 638 234 681 326 688 c 256
+ 433 696 537 656 537 596 c 256
+ 537 545 451 541 451 541 c 257
+ 491 514 l 257
+ 540 514 591 569 591 628 c 256
+ 591 682 537 755 413 755 c 256
+ 268 755 176 696 176 607 c 256
+ 176 547 226 504 310 495 c 257
+ 298 539 l 257
+EndSplineSet
+Refer: 238 3498 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_1 subtable" sinDdha sinMatraI
+EndChar

@@ -1,0 +1,23 @@
+StartChar: sinBUu
+Encoding: 316 -1 163
+GlifName: sinB_U_u
+Width: 661
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 164 3510 N 1 0 0 1 8 0 2
+Refer: 417 -1 N 1 0 0 1 596 10 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinBa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_blws subtable" sinBa sinMatraUu
+EndChar

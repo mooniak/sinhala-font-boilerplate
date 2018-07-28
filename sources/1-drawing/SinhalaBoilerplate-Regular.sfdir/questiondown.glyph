@@ -1,0 +1,36 @@
+StartChar: questiondown
+Encoding: 191 191 131
+GlifName: questiondown
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+188 457 m 257
+ 191 440 198 380 198 330 c 256
+ 198 319 239 371 235 365 c 257
+ 169 344 44 307 17 163 c 256
+ -5 45 71 -7 162 -7 c 256
+ 229 -7 296 21 337 46 c 257
+ 318 76 l 257
+ 295 63 262 43 220 46 c 256
+ 125 54 88 120 101 200 c 256
+ 117 302 229 326 270 330 c 257
+ 270 348 274 430 275 458 c 257
+ 188 457 l 257
+266 154 m 257
+ 264 127 259 73 251 46 c 257
+ 337 46 l 257
+ 341 73 338 139 332 163 c 257
+ 266 154 l 257
+EndSplineSet
+Refer: 123 46 N -1 0 0 -1 348 617 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,31 @@
+StartChar: sinNngI
+Encoding: 654 -1 501
+GlifName: sinN_ngI_
+Width: 849
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+571 447 m 257
+ 531 431 449 433 456 497 c 256
+ 462 556 521 590 609 588 c 256
+ 685 586 768 571 770 511 c 256
+ 771 473 722 429 658 451 c 257
+ 688 417 l 257
+ 762 397 823 485 824 536 c 256
+ 826 631 735 671 644 671 c 256
+ 504 671 416 585 415 496 c 256
+ 414 422 483 397 531 397 c 257
+ 571 447 l 257
+EndSplineSet
+Refer: 505 3487 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_1 subtable" sinNnga sinMatraI
+EndChar

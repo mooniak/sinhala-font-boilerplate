@@ -1,0 +1,27 @@
+StartChar: sinDhRIi
+Encoding: 397 -1 244
+GlifName: sinD_hR_I_i
+Width: 651
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 241 -1 N 1 0 0 1 20 0 2
+Refer: 548 -1 N 1 0 0 1 597 28 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinDha'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinDha'
+p7
+s."
+Ligature2: "sin_abvs_4 subtable" sinDhRa sinMatraIi
+EndChar

@@ -1,0 +1,43 @@
+StartChar: sinFa
+Encoding: 418 3526 265
+GlifName: sinF_a
+Width: 689
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+317 0 m 257
+ 322 15 320 58 316 76 c 257
+ 285 63 252 63 230 64 c 256
+ 153 67 64 116 64 202 c 256
+ 64 291 121 349 203 349 c 256
+ 279 349 344 282 334 232 c 257
+ 341 232 350 233 357 236 c 257
+ 376 308 436 347 490 346 c 256
+ 551 345 616 308 617 231 c 256
+ 618 175 586 61 414 64 c 257
+ 408 54 l 257
+ 412 31 428 -1 438 -13 c 257
+ 595 -11 652 127 654 232 c 256
+ 657 386 565 440 503 439 c 256
+ 424 438 370 372 348 313 c 257
+ 354 309 l 257
+ 362 362 305 440 224 440 c 256
+ 115 440 30 334 30 214 c 256
+ 30 85 109 -10 232 -14 c 256
+ 263 -15 289 -12 317 0 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinYa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+EndChar

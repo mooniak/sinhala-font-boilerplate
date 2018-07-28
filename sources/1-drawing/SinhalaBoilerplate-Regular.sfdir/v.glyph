@@ -1,0 +1,35 @@
+StartChar: v
+Encoding: 118 118 677
+GlifName: v
+Width: 507
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+291 14 m 257
+ 320 75 383 216 443 353 c 256
+ 457 385 462 415 516 417 c 257
+ 507 461 l 257
+ 433 458 374 457 300 461 c 257
+ 306 413 l 257
+ 359 415 398 407 383 363 c 256
+ 336 234 275 112 252 55 c 257
+ 252 55 250 105 246 122 c 257
+ 223 193 196 281 172 357 c 257
+ 160 407 179 415 238 420 c 257
+ 227 461 l 257
+ 142 459 87 457 2 461 c 257
+ 13 412 l 257
+ 49 413 67 408 82 358 c 256
+ 141 176 172 74 202 -12 c 257
+ 291 14 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

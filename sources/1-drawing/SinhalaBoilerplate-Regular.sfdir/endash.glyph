@@ -1,0 +1,23 @@
+StartChar: endash
+Encoding: 270 8211 67
+GlifName: endash
+Width: 385
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+354 253 m 257
+ 354 326 l 257
+ 30 326 l 257
+ 30 253 l 257
+ 354 253 l 257
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

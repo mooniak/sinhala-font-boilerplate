@@ -1,0 +1,32 @@
+StartChar: sinNdjRa
+Encoding: 633 -1 480
+GlifName: sinN_djR_a
+Width: 746
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+117 7 m 257
+ 89 39 79 123 88 191 c 256
+ 105 318 186 402 280 410 c 257
+ 283 414 l 257
+ 375 446 l 257
+ 372 452 l 257
+ 359 455 350 460 327 460 c 256
+ 193 460 44 357 31 189 c 256
+ 25 114 50 35 83 0 c 257
+ 102 0 112 4 117 7 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 305 -1 N 1 0 0 1 140 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_rakar_ss02 subtable" sinNdja sinVirama zerowidthjoiner sinRa
+Ligature2: "sin_rakar subtable" sinNdja sinVirama zerowidthjoiner sinRa
+EndChar

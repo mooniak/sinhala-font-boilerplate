@@ -1,0 +1,23 @@
+StartChar: sinNyI
+Encoding: 664 -1 511
+GlifName: sinN_yI_
+Width: 1017
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 519 3492 N 1 0 0 1 119 0 2
+Refer: 399 -1 N 1 0 0 1 769 3 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinDa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_1 subtable" sinNya sinMatraI
+EndChar

@@ -1,0 +1,28 @@
+StartChar: Q
+Encoding: 81 81 18
+GlifName: Q_
+Width: 648
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+691 -165 m 257
+ 699 -100 l 257
+ 687 -74 l 257
+ 687 -74 618 -100 524 -99 c 256
+ 437 -97 278 -62 235 16 c 257
+ 180 9 l 257
+ 203 -45 316 -181 504 -184 c 256
+ 591 -185 643 -180 691 -165 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 16 79 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

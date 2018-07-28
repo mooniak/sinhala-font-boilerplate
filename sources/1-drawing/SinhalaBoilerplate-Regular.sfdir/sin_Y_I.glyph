@@ -1,0 +1,31 @@
+StartChar: sinYI
+Encoding: 803 -1 650
+GlifName: sinY_I_
+Width: 659
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+464 449 m 257
+ 376 430 246 459 245 513 c 256
+ 244 555 301 583 393 584 c 256
+ 519 585 596 561 596 514 c 256
+ 596 473 538 464 494 459 c 257
+ 539 411 l 257
+ 607 431 638 481 638 539 c 256
+ 638 605 579 664 444 663 c 256
+ 333 662 213 613 213 511 c 256
+ 213 435 301 388 417 388 c 257
+ 464 449 l 257
+EndSplineSet
+Refer: 658 3514 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_1 subtable" sinYa sinMatraI
+EndChar

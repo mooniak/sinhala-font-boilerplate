@@ -1,0 +1,40 @@
+StartChar: sinPRIi
+Encoding: 680 -1 527
+GlifName: sinP_R_I_i
+Width: 619
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+118 516 m 256
+ 118 444 173 414 205 414 c 257
+ 222 459 l 257
+ 191 464 150 486 150 523 c 256
+ 150 582 239 599 330 600 c 256
+ 457 601 541 561 541 512 c 256
+ 541 487 528 471 504 471 c 256
+ 484 471 465 487 465 518 c 256
+ 465 545 478 568 500 589 c 257
+ 481 598 l 257
+ 455 584 419 548 418 501 c 256
+ 417 461 450 428 498 428 c 256
+ 535 428 574 459 574 521 c 256
+ 574 595 503 675 355 676 c 256
+ 211 677 118 612 118 516 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 528 -1 N 1 0 0 1 2 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'=sinPa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_4 subtable" sinPRa sinMatraIi
+EndChar

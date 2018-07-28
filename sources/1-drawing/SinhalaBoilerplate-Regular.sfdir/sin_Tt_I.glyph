@@ -1,0 +1,48 @@
+StartChar: sinTtI
+Encoding: 763 -1 610
+GlifName: sinT_tI_
+Width: 595
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+326 515 m 256
+ 252 515 224 505 168 487 c 257
+ 145 487 126 504 126 530 c 256
+ 126 577 168 608 288 608 c 256
+ 370 608 488 584 488 535 c 256
+ 488 501 439 496 395 507 c 257
+ 419 451 l 257
+ 465 443 517 487 517 548 c 256
+ 517 621 451 683 324 683 c 256
+ 200 683 89 614 89 514 c 256
+ 89 454 132 422 185 422 c 256
+ 236 422 267 445 348 445 c 256
+ 433 445 520 405 520 299 c 256
+ 520 164 422 66 264 66 c 256
+ 167 66 84 110 84 183 c 256
+ 84 254 161 283 239 283 c 256
+ 259 283 280 281 299 277 c 257
+ 308 291 l 257
+ 306 312 297 334 283 355 c 257
+ 276 356 269 356 262 356 c 256
+ 181 356 42 312 42 164 c 256
+ 42 61 129 -27 265 -27 c 256
+ 451 -27 559 107 559 292 c 256
+ 559 436 459 515 326 515 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinTta'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_1 subtable" sinTta sinMatraI
+EndChar

@@ -1,0 +1,246 @@
+StartChar: sinDh.virama
+Encoding: 392 -1 239
+GlifName: sinD_h.virama
+Width: 628
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+298 679 m 256
+ 204 680 151 645 150 642 c 257
+ 141 625 134 592 132 582 c 257
+ 155 597 165 601 192 611 c 257
+ 213 641 l 257
+ 199 631 153 606 140 527 c 257
+ 162 522 l 257
+ 171 571 213 624 247 629 c 257
+ 225 630 223 631 196 611 c 257
+ 196 611 210 621 273 621 c 256
+ 534 618 554 420 552 372 c 257
+ 590 310 l 257
+ 590 452 536 677 298 679 c 256
+  PathStart: -2
+598 259 m 256
+ 595 446 480 588 283 588 c 256
+ 230 588 184 582 154 569 c 257
+ 142 550 137 516 139 498 c 257
+ 147 502 215 525 290 525 c 256
+ 417 525 552 473 552 276 c 256
+ 552 150 497 65 422 65 c 256
+ 389 65 333 82 342 158 c 257
+ 323 154 l 257
+ 307 110 273 67 201 69 c 256
+ 125 71 87 120 88 176 c 256
+ 90 261 188 312 328 282 c 257
+ 339 295 l 257
+ 337 317 329 343 319 362 c 257
+ 186 377 51 305 50 156 c 256
+ 49 51 104 -15 203 -15 c 256
+ 288 -15 324 48 329 83 c 257
+ 330 83 319 94 321 105 c 257
+ 311 54 344 -16 428 -16 c 256
+ 545 -16 600 116 598 259 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinMa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.typemytype.robofont.layerData'
+p6
+(dp7
+S'background'
+p8
+(dp9
+S'name'
+p10
+S'sinDh.virama'
+p11
+sS'lib'
+p12
+(dp13
+sS'unicodes'
+p14
+(lp15
+sS'width'
+p16
+I852
+sS'contours'
+p17
+(lp18
+(dp19
+S'points'
+p20
+(lp21
+(dp22
+S'segmentType'
+p23
+S'move'
+p24
+sS'x'
+I725
+sS'smooth'
+p25
+I0
+sS'y'
+I373
+sa(dp26
+S'y'
+I588
+sS'x'
+I724
+sg25
+I0
+sa(dp27
+S'y'
+I666
+sS'x'
+I543
+sg25
+I0
+sa(dp28
+g23
+S'curve'
+p29
+sS'x'
+I382
+sg25
+I1
+sS'y'
+I666
+sa(dp30
+S'y'
+I666
+sS'x'
+I227
+sg25
+I0
+sa(dp31
+S'y'
+I596
+sS'x'
+I146
+sg25
+I0
+sa(dp32
+g23
+S'curve'
+p33
+sS'x'
+I144
+sg25
+I0
+sS'y'
+I596
+sa(dp34
+S'y'
+I599
+sS'x'
+I142
+sg25
+I0
+sa(dp35
+S'y'
+I606
+sS'x'
+I145
+sg25
+I0
+sa(dp36
+g23
+S'curve'
+p37
+sS'x'
+I145
+sg25
+I1
+sS'y'
+I616
+sa(dp38
+S'y'
+I637
+sS'x'
+I145
+sg25
+I0
+sa(dp39
+S'y'
+I675
+sS'x'
+I169
+sg25
+I0
+sa(dp40
+g23
+S'curve'
+p41
+sS'x'
+I180
+sg25
+I0
+sS'y'
+I698
+sa(dp42
+S'y'
+I729
+sS'x'
+I225
+sg25
+I0
+sa(dp43
+S'y'
+I750
+sS'x'
+I289
+sg25
+I0
+sa(dp44
+g23
+S'curve'
+p45
+sS'x'
+I382
+sg25
+I1
+sS'y'
+I750
+sa(dp46
+S'y'
+I750
+sS'x'
+I613
+sg25
+I0
+sa(dp47
+S'y'
+I586
+sS'x'
+I785
+sg25
+I0
+sa(dp48
+g23
+S'curve'
+p49
+sS'x'
+I787
+sg25
+I1
+sS'y'
+I358
+sasasS'components'
+p50
+(lp51
+sS'anchors'
+p52
+(lp53
+sss."
+Ligature2: "sin_virama_1 subtable" sinDha sinVirama
+EndChar

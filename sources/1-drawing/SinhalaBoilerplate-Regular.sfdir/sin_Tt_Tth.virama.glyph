@@ -1,0 +1,19 @@
+StartChar: sinTtTth.virama
+Encoding: 769 -1 616
+GlifName: sinT_tT_th.virama
+Width: 790
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 643 3530 N 1 0 0 1 685 23 2
+Refer: 621 -1 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_2 subtable" sinTtTtha sinVirama
+EndChar

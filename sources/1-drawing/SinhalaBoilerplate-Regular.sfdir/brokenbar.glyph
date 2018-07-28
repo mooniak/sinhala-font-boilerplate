@@ -1,0 +1,28 @@
+StartChar: brokenbar
+Encoding: 166 166 42
+GlifName: brokenbar
+Width: 186
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+126 263 m 257
+ 126 358 128 458 129 571 c 257
+ 109 567 82 564 62 563 c 257
+ 65 450 65 353 66 263 c 257
+ 126 263 l 257
+66 178 m 257
+ 66 83 65 -28 63 -122 c 257
+ 127 -122 l 257
+ 124 -28 126 83 126 178 c 257
+ 66 178 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

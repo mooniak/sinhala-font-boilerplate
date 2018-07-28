@@ -1,0 +1,35 @@
+StartChar: sinNndda
+Encoding: 652 3500 499
+GlifName: sinN_ndda
+Width: 765
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+117 9 m 257
+ 102 36 85 109 85 174 c 256
+ 85 302 148 388 250 379 c 257
+ 315 433 l 257
+ 159 445 30 351 30 206 c 256
+ 30 119 57 33 83 2 c 257
+ 102 2 113 6 117 9 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 231 3497 N 1 0 0 1 77 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'=sinTta'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinNda'
+p7
+s."
+EndChar

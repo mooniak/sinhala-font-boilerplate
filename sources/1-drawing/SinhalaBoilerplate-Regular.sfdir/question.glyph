@@ -1,0 +1,36 @@
+StartChar: question
+Encoding: 63 63 130
+GlifName: question
+Width: 417
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+211 153 m 257
+ 208 169 201 230 201 280 c 256
+ 201 291 160 239 164 245 c 257
+ 229 266 355 303 382 447 c 256
+ 403 565 328 617 236 617 c 256
+ 169 617 102 589 62 564 c 257
+ 81 534 l 257
+ 104 547 137 567 179 564 c 256
+ 274 556 311 490 298 410 c 256
+ 282 308 169 284 129 280 c 257
+ 129 262 125 180 124 152 c 257
+ 211 153 l 257
+132 456 m 257
+ 135 483 140 537 148 564 c 257
+ 62 564 l 257
+ 58 537 61 471 67 447 c 257
+ 132 456 l 257
+EndSplineSet
+Refer: 123 46 N 1 0 0 1 51 -8 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

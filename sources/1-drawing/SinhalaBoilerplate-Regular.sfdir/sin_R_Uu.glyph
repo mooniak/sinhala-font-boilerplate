@@ -1,0 +1,33 @@
+StartChar: sinRUu
+Encoding: 697 -1 544
+GlifName: sinR_U_u
+Width: 850
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 389 3537 N 1 0 0 1 520 0 2
+Refer: 545 3515 N 1 0 0 1 10 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.schriftgestaltung.Glyphs.ComponentInfo'
+p4
+(lp5
+(dp6
+S'index'
+p7
+I0
+sS'name'
+p8
+S'sinMatraAae'
+p9
+sS'alignment'
+p10
+I-1
+sas."
+Ligature2: "sin_blws subtable" sinRa sinMatraUu
+EndChar

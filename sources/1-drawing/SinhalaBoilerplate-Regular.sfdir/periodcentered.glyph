@@ -1,0 +1,24 @@
+StartChar: periodcentered
+Encoding: 183 183 124
+GlifName: periodcentered
+Width: 307
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+245 253 m 256
+ 245 306 203 341 153 341 c 256
+ 99 341 61 303 62 249 c 256
+ 62 202 95 159 156 159 c 256
+ 203 159 245 196 245 253 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

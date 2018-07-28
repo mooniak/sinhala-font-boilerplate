@@ -1,0 +1,29 @@
+StartChar: sinPRa
+Encoding: 681 -1 528
+GlifName: sinP_R_a
+Width: 620
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+587 193 m 257
+ 564 179 l 257
+ 553 30 535 -137 327 -142 c 256
+ 164 -146 86 -68 86 -68 c 257
+ 75 -71 68 -77 63 -84 c 257
+ 67 -104 133 -211 301 -216 c 256
+ 572 -225 587 53 587 193 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 531 3508 N 1 0 0 1 22 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_rakar_ss02 subtable" sinPa sinVirama zerowidthjoiner sinRa
+Ligature2: "sin_rakar subtable" sinPa sinVirama zerowidthjoiner sinRa
+EndChar

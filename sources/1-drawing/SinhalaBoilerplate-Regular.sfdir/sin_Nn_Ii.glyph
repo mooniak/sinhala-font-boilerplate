@@ -1,0 +1,375 @@
+StartChar: sinNnIi
+Encoding: 643 -1 490
+GlifName: sinN_nI_i
+Width: 965
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+285 417 m 257
+ 238 417 170 430 170 502 c 256
+ 170 558 233 604 278 606 c 256
+ 320 608 382 601 385 561 c 256
+ 387 538 364 513 332 513 c 256
+ 316 513 298 523 298 544 c 257
+ 301 599 386 589 386 589 c 257
+ 394 599 l 257
+ 382 603 372 610 348 611 c 257
+ 316 614 259 598 252 548 c 256
+ 246 504 282 478 328 480 c 256
+ 411 484 443 547 423 598 c 256
+ 412 626 382 670 305 670 c 256
+ 184 670 131 572 131 500 c 256
+ 131 421 199 370 280 395 c 257
+ 285 417 l 257
+513 243 m 256
+ 513 356 440 435 346 435 c 256
+ 297 435 269 413 253 397 c 257
+ 200 371 162 316 162 255 c 256
+ 162 192 203 125 285 125 c 256
+ 346 125 387 163 387 219 c 256
+ 387 272 350 315 284 315 c 256
+ 253 315 221 306 184 271 c 257
+ 176 236 l 257
+ 202 262 229 272 252 272 c 256
+ 298 272 324 234 324 202 c 256
+ 324 171 300 159 278 159 c 256
+ 246 159 198 181 198 254 c 256
+ 198 313 229 377 319 377 c 256
+ 403 377 480 321 479 231 c 256
+ 478 144 409 70 277 70 c 256
+ 138 70 119 175 22 140 c 257
+ 62 125 l 257
+ 156 250 299 476 563 546 c 257
+ 560 564 538 596 519 601 c 257
+ 253 489 161 308 38 147 c 257
+ 17 145 -2 131 -2 108 c 256
+ -2 98 2 90 4 87 c 257
+ 11 87 23 87 34 91 c 257
+ 34 96 35 108 59 108 c 256
+ 149 108 150 -11 307 -11 c 256
+ 468 -11 513 157 513 243 c 256
+  PathStart: -2
+872 237 m 256
+ 872 350 819 405 753 405 c 256
+ 693 405 650 355 634 298 c 257
+ 635 289 l 257
+ 638 321 625 353 587 353 c 256
+ 539 353 504 298 501 253 c 257
+ 508 191 l 257
+ 520 254 532 288 567 288 c 256
+ 592 288 614 259 611 203 c 257
+ 617 202 633 202 642 205 c 257
+ 645 239 680 320 749 320 c 256
+ 786 320 839 296 839 214 c 256
+ 839 125 787 53 684 51 c 256
+ 639 50 594 60 566 79 c 257
+ 556 73 546 61 544 51 c 257
+ 550 21 593 -26 676 -26 c 256
+ 813 -26 872 103 872 237 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+S'background'
+p6
+(dp7
+S'name'
+p8
+S'sinNnIi'
+p9
+sS'lib'
+p10
+(dp11
+sS'unicodes'
+p12
+(lp13
+sS'width'
+p14
+I1253
+sS'contours'
+p15
+(lp16
+(dp17
+S'points'
+p18
+(lp19
+(dp20
+S'segmentType'
+p21
+S'curve'
+p22
+sS'x'
+I154
+sS'smooth'
+p23
+I1
+sS'y'
+I624
+sa(dp24
+S'y'
+I768
+sS'x'
+I155
+sg23
+I0
+sa(dp25
+S'y'
+I845
+sS'x'
+I269
+sg23
+I0
+sa(dp26
+g21
+S'curve'
+p27
+sS'x'
+I390
+sg23
+I1
+sS'y'
+I845
+sa(dp28
+S'y'
+I845
+sS'x'
+I536
+sg23
+I0
+sa(dp29
+S'y'
+I743
+sS'x'
+I569
+sg23
+I0
+sa(dp30
+g21
+S'curve'
+p31
+sS'x'
+I567
+sg23
+I1
+sS'y'
+I699
+sa(dp32
+S'y'
+I644
+sS'x'
+I565
+sg23
+I0
+sa(dp33
+S'y'
+I660
+sS'x'
+I539
+sg23
+I0
+sa(dp34
+g21
+S'curve'
+p35
+sS'x'
+I527
+sg23
+I0
+sS'y'
+I642
+sa(dp36
+g21
+S'line'
+p37
+sS'x'
+I492
+sg23
+I0
+sS'y'
+I621
+sa(dp38
+S'y'
+I650
+sS'x'
+I524
+sg23
+I0
+sa(dp39
+S'y'
+I689
+sS'x'
+I547
+sg23
+I0
+sa(dp40
+g21
+S'curve'
+p41
+sS'x'
+I515
+sg23
+I1
+sS'y'
+I721
+sa(dp42
+S'y'
+I745
+sS'x'
+I491
+sg23
+I0
+sa(dp43
+S'y'
+I763
+sS'x'
+I428
+sg23
+I0
+sa(dp44
+g21
+S'curve'
+p45
+sS'x'
+I355
+sg23
+I1
+sS'y'
+I761
+sa(dp46
+S'y'
+I759
+sS'x'
+I284
+sg23
+I0
+sa(dp47
+S'y'
+I708
+sS'x'
+I205
+sg23
+I0
+sa(dp48
+g21
+S'curve'
+p49
+sS'x'
+I205
+sg23
+I1
+sS'y'
+I617
+sa(dp50
+S'y'
+I543
+sS'x'
+I205
+sg23
+I0
+sa(dp51
+S'y'
+I520
+sS'x'
+I288
+sg23
+I0
+sa(dp52
+g21
+S'curve'
+p53
+sS'x'
+I325
+sg23
+I1
+sS'y'
+I520
+sa(dp54
+S'y'
+I520
+sS'x'
+I355
+sg23
+I0
+sa(dp55
+S'y'
+I522
+sS'x'
+I345
+sg23
+I0
+sa(dp56
+g21
+S'curve'
+p57
+sS'x'
+I353
+sg23
+I0
+sS'y'
+I523
+sa(dp58
+g21
+S'line'
+p59
+sS'x'
+I343
+sg23
+I0
+sS'y'
+I493
+sa(dp60
+S'y'
+I482
+sS'x'
+I326
+sg23
+I0
+sa(dp61
+S'y'
+I477
+sS'x'
+I313
+sg23
+I0
+sa(dp62
+g21
+S'curve'
+p63
+sS'x'
+I297
+sg23
+I1
+sS'y'
+I477
+sa(dp64
+S'y'
+I477
+sS'x'
+I219
+sg23
+I0
+sa(dp65
+S'y'
+I532
+sS'x'
+I154
+sg23
+I0
+sasasS'components'
+p66
+(lp67
+sS'anchors'
+p68
+(lp69
+sss."
+Ligature2: "sin_abvs_2 subtable" sinNna sinMatraIi
+EndChar

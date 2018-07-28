@@ -1,0 +1,39 @@
+StartChar: sinJIi
+Encoding: 454 -1 301
+GlifName: sinJ_I_i
+Width: 622
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+460 462 m 257
+ 402 462 312 497 312 562 c 256
+ 312 615 369 645 425 645 c 256
+ 516 645 535 613 535 589 c 256
+ 535 572 525 555 509 555 c 256
+ 493 555 483 570 483 591 c 256
+ 483 609 495 635 517 635 c 257
+ 508 647 l 257
+ 481 647 445 625 445 588 c 256
+ 445 554 475 533 504 533 c 256
+ 546 533 564 564 564 608 c 256
+ 564 651 517 705 440 705 c 256
+ 329 705 280 624 280 566 c 256
+ 280 486 341 429 417 429 c 257
+ 460 462 l 257
+EndSplineSet
+Refer: 308 3490 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinJa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_2 subtable" sinJa sinMatraIi
+EndChar

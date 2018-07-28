@@ -1,0 +1,32 @@
+StartChar: greaterequal
+Encoding: 282 8805 87
+GlifName: greaterequal
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+145 525 m 257
+ 129 508 105 485 89 470 c 257
+ 164 419 242 359 316 287 c 257
+ 319 313 l 257
+ 276 285 172 227 67 166 c 257
+ 85 149 104 126 117 107 c 257
+ 190 164 270 210 416 296 c 257
+ 322 367 219 455 145 525 c 257
+  PathStart: -2
+33 1 m 257
+ 140 5 250 5 394 1 c 257
+ 401 75 l 257
+ 275 72 159 72 35 75 c 257
+ 33 1 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

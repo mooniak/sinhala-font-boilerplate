@@ -1,0 +1,787 @@
+languagesystem DFLT dflt;
+languagesystem latn AZE ;
+languagesystem latn CAT ;
+languagesystem latn CRT ;
+languagesystem latn dflt;
+languagesystem latn KAZ ;
+languagesystem latn MOL ;
+languagesystem latn ROM ;
+languagesystem latn TAT ;
+languagesystem latn TRK ;
+languagesystem sinh dflt;
+
+
+# GSUB 
+
+
+lookup fracDiagonalFractionslookup0 {
+  lookupflag 0;
+    sub \one \slash \two  by \onehalf;
+    sub \one \slash \four  by \onequarter;
+    sub \three \slash \four  by \threequarters;
+} fracDiagonalFractionslookup0;
+
+lookup ligaStandardLigatureslookup1 {
+  lookupflag 0;
+    sub \f \f  by \f_f;
+    sub \f \f \i  by \f_f_i;
+    sub \f \f \l  by \f_f_l;
+    sub \f \i  by \fi;
+    sub \f \l  by \fl;
+} ligaStandardLigatureslookup1;
+
+lookup sin_akhands {
+  lookupflag 0;
+    sub \sinDa \sinVirama \zerowidthjoiner \sinDha  by \sinDDha;
+    sub \sinDa \sinVirama \zerowidthjoiner \sinVa  by \sinDVa;
+    sub \sinGa \sinVirama \zerowidthjoiner \sinDha  by \sinGDha;
+    sub \sinKa \sinVirama \zerowidthjoiner \sinSsa  by \sinKSsa;
+    sub \sinKa \sinVirama \zerowidthjoiner \sinVa  by \sinKVa;
+    sub \sinNa \sinVirama \zerowidthjoiner \sinDa  by \sinNDa;
+    sub \sinNa \sinVirama \zerowidthjoiner \sinDha  by \sinNDha;
+    sub \sinNa \sinVirama \zerowidthjoiner \sinTha  by \sinNTha;
+    sub \sinNa \sinVirama \zerowidthjoiner \sinVa  by \sinNVa;
+    sub \sinTa \sinVirama \zerowidthjoiner \sinTha  by \sinTTha;
+    sub \sinTa \sinVirama \zerowidthjoiner \sinVa  by \sinTVa;
+    sub \sinTta \sinVirama \zerowidthjoiner \sinTtha  by \sinTtTtha;
+} sin_akhands;
+
+lookup sin_reph {
+  lookupflag 0;
+    sub \sinRa \sinVirama \zerowidthjoiner  by \sinReph;
+} sin_reph;
+
+lookup sin_yansaya {
+  lookupflag 0;
+    sub \sinVirama \zerowidthjoiner \sinYa  by \sinYa.post;
+} sin_yansaya;
+
+lookup sin_rakar {
+  lookupflag 0;
+    sub \sinBa \sinVirama \zerowidthjoiner \sinRa  by \sinBRa;
+    sub \sinBha \sinVirama \zerowidthjoiner \sinRa  by \sinBhRa;
+    sub \sinCa \sinVirama \zerowidthjoiner \sinRa  by \sinCRa;
+    sub \sinDa \sinVirama \zerowidthjoiner \sinRa  by \sinDRa;
+    sub \sinDda \sinVirama \zerowidthjoiner \sinRa  by \sinDdRa;
+    sub \sinDha \sinVirama \zerowidthjoiner \sinRa  by \sinDhRa;
+    sub \sinFa \sinVirama \zerowidthjoiner \sinRa  by \sinFRa;
+    sub \sinGa \sinVirama \zerowidthjoiner \sinRa  by \sinGRa;
+    sub \sinGha \sinVirama \zerowidthjoiner \sinRa  by \sinGhRa;
+    sub \sinHa \sinVirama \zerowidthjoiner \sinRa  by \sinHRa;
+    sub \sinJa \sinVirama \zerowidthjoiner \sinRa  by \sinJRa;
+    sub \sinJha \sinVirama \zerowidthjoiner \sinRa  by \sinJhRa;
+    sub \sinJnya \sinVirama \zerowidthjoiner \sinRa  by \sinJnyRa;
+    sub \sinKa \sinVirama \zerowidthjoiner \sinRa  by \sinKRa;
+    sub \sinKha \sinVirama \zerowidthjoiner \sinRa  by \sinKhRa;
+    sub \sinMa \sinVirama \zerowidthjoiner \sinRa  by \sinMRa;
+    sub \sinNDa \sinVirama \zerowidthjoiner \sinRa  by \sinNDRa;
+    sub \sinNdja \sinVirama \zerowidthjoiner \sinRa  by \sinNdjRa;
+    sub \sinNya \sinVirama \zerowidthjoiner \sinRa  by \sinNyRa;
+    sub \sinPa \sinVirama \zerowidthjoiner \sinRa  by \sinPRa;
+    sub \sinSa \sinVirama \zerowidthjoiner \sinRa  by \sinSRa;
+    sub \sinSha \sinVirama \zerowidthjoiner \sinRa  by \sinShRa;
+    sub \sinSsa \sinVirama \zerowidthjoiner \sinRa  by \sinSsRa;
+    sub \sinTa \sinVirama \zerowidthjoiner \sinRa  by \sinTRa;
+    sub \sinTta \sinVirama \zerowidthjoiner \sinRa  by \sinTtRa;
+    sub \sinVa \sinVirama \zerowidthjoiner \sinRa  by \sinVRa;
+} sin_rakar;
+
+lookup sin_split_matra {
+  lookupflag 0;
+    sub \sinMatraAu by \sinMatraLs ;
+    sub \sinMatraEe by \sinVirama ;
+    sub \sinMatraO by \sinMatraAa ;
+    sub \sinMatraOo by \sinMatraAa.virama ;
+} sin_split_matra;
+
+lookup sin_abvs_1 {
+  lookupflag 0;
+    sub \sinBa \sinMatraI  by \sinBI;
+    sub \sinBha \sinMatraI  by \sinBhI;
+    sub \sinCa \sinMatraI  by \sinCI;
+    sub \sinCha \sinMatraI  by \sinChI;
+    sub \sinDa \sinMatraI  by \sinDI;
+    sub \sinDda \sinMatraI  by \sinDdI;
+    sub \sinDdha \sinMatraI  by \sinDdhI;
+    sub \sinDha \sinMatraI  by \sinDhI;
+    sub \sinFa \sinMatraI  by \sinFI;
+    sub \sinGa \sinMatraI  by \sinGI;
+    sub \sinGha \sinMatraI  by \sinGhI;
+    sub \sinHa \sinMatraI  by \sinHI;
+    sub \sinJa \sinMatraI  by \sinJI;
+    sub \sinJha \sinMatraI  by \sinJhI;
+    sub \sinJnya \sinMatraI  by \sinJnyI;
+    sub \sinKa \sinMatraI  by \sinKI;
+    sub \sinKha \sinMatraI  by \sinKhI;
+    sub \sinLa \sinMatraI  by \sinLI;
+    sub \sinLla \sinMatraI  by \sinLlI;
+    sub \sinMa \sinMatraI  by \sinMI;
+    sub \sinMba \sinMatraI  by \sinMbI;
+    sub \sinNa \sinMatraI  by \sinNI;
+    sub \sinNda \sinMatraI  by \sinNdI;
+    sub \sinNdja \sinMatraI  by \sinNdjI;
+    sub \sinNga \sinMatraI  by \sinNgI;
+    sub \sinNna \sinMatraI  by \sinNnI;
+    sub \sinNndda \sinMatraI  by \sinNnddI;
+    sub \sinNnga \sinMatraI  by \sinNngI;
+    sub \sinNya \sinMatraI  by \sinNyI;
+    sub \sinPa \sinMatraI  by \sinPI;
+    sub \sinPha \sinMatraI  by \sinPhI;
+    sub \sinRa \sinMatraI  by \sinRI;
+    sub \sinSa \sinMatraI  by \sinSI;
+    sub \sinSha \sinMatraI  by \sinShI;
+    sub \sinSsa \sinMatraI  by \sinSsI;
+    sub \sinTa \sinMatraI  by \sinTI;
+    sub \sinTha \sinMatraI  by \sinThI;
+    sub \sinTta \sinMatraI  by \sinTtI;
+    sub \sinTtha \sinMatraI  by \sinTthI;
+    sub \sinVa \sinMatraI  by \sinVI;
+    sub \sinYa \sinMatraI  by \sinYI;
+    sub \sinYa.post \sinMatraI  by \sinYI.post;
+} sin_abvs_1;
+
+lookup sin_abvs_2 {
+  lookupflag 0;
+    sub \sinBa \sinMatraIi  by \sinBIi;
+    sub \sinBha \sinMatraIi  by \sinBhIi;
+    sub \sinCa \sinMatraIi  by \sinCIi;
+    sub \sinCha \sinMatraIi  by \sinChIi;
+    sub \sinDa \sinMatraIi  by \sinDIi;
+    sub \sinDda \sinMatraIi  by \sinDdIi;
+    sub \sinDdha \sinMatraIi  by \sinDdhIi;
+    sub \sinDha \sinMatraIi  by \sinDhIi;
+    sub \sinFa \sinMatraIi  by \sinFIi;
+    sub \sinGa \sinMatraIi  by \sinGIi;
+    sub \sinGha \sinMatraIi  by \sinGhIi;
+    sub \sinHa \sinMatraIi  by \sinHIi;
+    sub \sinJa \sinMatraIi  by \sinJIi;
+    sub \sinJha \sinMatraIi  by \sinJhIi;
+    sub \sinJnya \sinMatraIi  by \sinJnyIi;
+    sub \sinKa \sinMatraIi  by \sinKIi;
+    sub \sinKha \sinMatraIi  by \sinKhIi;
+    sub \sinLa \sinMatraIi  by \sinLIi;
+    sub \sinLla \sinMatraIi  by \sinLlIi;
+    sub \sinMa \sinMatraIi  by \sinMIi;
+    sub \sinMba \sinMatraIi  by \sinMbIi;
+    sub \sinNa \sinMatraIi  by \sinNIi;
+    sub \sinNda \sinMatraIi  by \sinNdIi;
+    sub \sinNdja \sinMatraIi  by \sinNdjIi;
+    sub \sinNga \sinMatraIi  by \sinNgIi;
+    sub \sinNna \sinMatraIi  by \sinNnIi;
+    sub \sinNndda \sinMatraIi  by \sinNnddIi;
+    sub \sinNnga \sinMatraIi  by \sinNngIi;
+    sub \sinNya \sinMatraIi  by \sinNyIi;
+    sub \sinPa \sinMatraIi  by \sinPIi;
+    sub \sinPha \sinMatraIi  by \sinPhIi;
+    sub \sinRa \sinMatraIi  by \sinRIi;
+    sub \sinSa \sinMatraIi  by \sinSIi;
+    sub \sinSha \sinMatraIi  by \sinShIi;
+    sub \sinSsa \sinMatraIi  by \sinSsIi;
+    sub \sinTa \sinMatraIi  by \sinTIi;
+    sub \sinTha \sinMatraIi  by \sinThIi;
+    sub \sinTta \sinMatraIi  by \sinTtIi;
+    sub \sinTtha \sinMatraIi  by \sinTthIi;
+    sub \sinVa \sinMatraIi  by \sinVIi;
+    sub \sinYa \sinMatraIi  by \sinYIi;
+    sub \sinYa.post \sinMatraIi  by \sinYIi.post;
+} sin_abvs_2;
+
+lookup sin_abvs_3 {
+  lookupflag 0;
+    sub \sinBRa \sinMatraI  by \sinBRI;
+    sub \sinBhRa \sinMatraI  by \sinBhRI;
+    sub \sinCRa \sinMatraI  by \sinCRI;
+    sub \sinDRa \sinMatraI  by \sinDRI;
+    sub \sinDdRa \sinMatraI  by \sinDdRI;
+    sub \sinDhRa \sinMatraI  by \sinDhRI;
+    sub \sinGRa \sinMatraI  by \sinGRI;
+    sub \sinGhRa \sinMatraI  by \sinGhRI;
+    sub \sinHRa \sinMatraI  by \sinHRI;
+    sub \sinJRa \sinMatraI  by \sinJRI;
+    sub \sinJhRa \sinMatraI  by \sinJhRI;
+    sub \sinJnyRa \sinMatraI  by \sinJnyRI;
+    sub \sinKRa \sinMatraI  by \sinKRI;
+    sub \sinKhRa \sinMatraI  by \sinKhRI;
+    sub \sinMRa \sinMatraI  by \sinMRI;
+    sub \sinNyRa \sinMatraI  by \sinNyRI;
+    sub \sinPRa \sinMatraI  by \sinPRI;
+    sub \sinSRa \sinMatraI  by \sinSRI;
+    sub \sinShRa \sinMatraI  by \sinShRI;
+    sub \sinTRa \sinMatraI  by \sinTRI;
+    sub \sinTtRa \sinMatraI  by \sinTtRI;
+    sub \sinVRa \sinMatraI  by \sinVRI;
+} sin_abvs_3;
+
+lookup sin_abvs_4 {
+  lookupflag 0;
+    sub \sinBRa \sinMatraIi  by \sinBRIi;
+    sub \sinBhRa \sinMatraIi  by \sinBhRIi;
+    sub \sinCRa \sinMatraIi  by \sinCRIi;
+    sub \sinDRa \sinMatraIi  by \sinDRIi;
+    sub \sinDdRa \sinMatraIi  by \sinDdRIi;
+    sub \sinDhRa \sinMatraIi  by \sinDhRIi;
+    sub \sinGRa \sinMatraIi  by \sinGRIi;
+    sub \sinGhRa \sinMatraIi  by \sinGhRIi;
+    sub \sinHRa \sinMatraIi  by \sinHRIi;
+    sub \sinJRa \sinMatraIi  by \sinJRIi;
+    sub \sinJhRa \sinMatraIi  by \sinJhRIi;
+    sub \sinJnyRa \sinMatraIi  by \sinJnyRIi;
+    sub \sinKRa \sinMatraIi  by \sinKRIi;
+    sub \sinKhRa \sinMatraIi  by \sinKhRIi;
+    sub \sinMRa \sinMatraIi  by \sinMRIi;
+    sub \sinNyRa \sinMatraIi  by \sinNyRIi;
+    sub \sinPRa \sinMatraIi  by \sinPRIi;
+    sub \sinSRa \sinMatraIi  by \sinSRIi;
+    sub \sinShRa \sinMatraIi  by \sinShRIi;
+    sub \sinTRa \sinMatraIi  by \sinTRIi;
+    sub \sinTtRa \sinMatraIi  by \sinTtRIi;
+    sub \sinVRa \sinMatraIi  by \sinVRIi;
+} sin_abvs_4;
+
+lookup sin_abvs_5 {
+  lookupflag 0;
+    sub \sinDDha \sinMatraI  by \sinDDhI;
+    sub \sinDVa \sinMatraI  by \sinDVI;
+    sub \sinKSsa \sinMatraI  by \sinKSsI;
+    sub \sinKVa \sinMatraI  by \sinKVI;
+    sub \sinNDa \sinMatraI  by \sinNDI;
+    sub \sinNDha \sinMatraI  by \sinNDhI;
+    sub \sinNTha \sinMatraI  by \sinNThI;
+    sub \sinNVa \sinMatraI  by \sinNVI;
+    sub \sinTTha \sinMatraI  by \sinTThI;
+    sub \sinTVa \sinMatraI  by \sinTVI;
+    sub \sinTtTtha \sinMatraI  by \sinTtTthI;
+} sin_abvs_5;
+
+lookup sin_abvs_6 {
+  lookupflag 0;
+    sub \sinDDha \sinMatraIi  by \sinDDhIi;
+    sub \sinDVa \sinMatraIi  by \sinDVIi;
+    sub \sinKSsa \sinMatraIi  by \sinKSsIi;
+    sub \sinKVa \sinMatraIi  by \sinKVIi;
+    sub \sinNDa \sinMatraIi  by \sinNDIi;
+    sub \sinNDha \sinMatraIi  by \sinNDhIi;
+    sub \sinNTha \sinMatraIi  by \sinNThIi;
+    sub \sinNVa \sinMatraIi  by \sinNVIi;
+    sub \sinTTha \sinMatraIi  by \sinTThIi;
+    sub \sinTVa \sinMatraIi  by \sinTVIi;
+    sub \sinTtTtha \sinMatraIi  by \sinTtTthIi;
+} sin_abvs_6;
+
+lookup sin_virama_1 {
+  lookupflag 0;
+    sub \sinBa \sinVirama  by \sinB.virama;
+    sub \sinBha \sinVirama  by \sinBh.virama;
+    sub \sinCa \sinVirama  by \sinC.virama;
+    sub \sinCha \sinVirama  by \sinCh.virama;
+    sub \sinDa \sinVirama  by \sinD.virama;
+    sub \sinDda \sinVirama  by \sinDd.virama;
+    sub \sinDdha \sinVirama  by \sinDdh.virama;
+    sub \sinDha \sinVirama  by \sinDh.virama;
+    sub \sinFa \sinVirama  by \sinF.virama;
+    sub \sinGa \sinVirama  by \sinG.virama;
+    sub \sinGha \sinVirama  by \sinGh.virama;
+    sub \sinHa \sinVirama  by \sinH.virama;
+    sub \sinJa \sinVirama  by \sinJ.virama;
+    sub \sinJha \sinVirama  by \sinJh.virama;
+    sub \sinJnya \sinVirama  by \sinJny.virama;
+    sub \sinKa \sinVirama  by \sinK.virama;
+    sub \sinKha \sinVirama  by \sinKh.virama;
+    sub \sinLa \sinVirama  by \sinL.virama;
+    sub \sinLla \sinVirama  by \sinLl.virama;
+    sub \sinMa \sinVirama  by \sinM.virama;
+    sub \sinMatraAa \sinVirama  by \sinMatraAa.virama;
+    sub \sinMba \sinVirama  by \sinMb.virama;
+    sub \sinNa \sinVirama  by \sinN.virama;
+    sub \sinNda \sinVirama  by \sinNd.virama;
+    sub \sinNdja \sinVirama  by \sinNdj.virama;
+    sub \sinNga \sinVirama  by \sinNg.virama;
+    sub \sinNna \sinVirama  by \sinNn.virama;
+    sub \sinNndda \sinVirama  by \sinNndd.virama;
+    sub \sinNnga \sinVirama  by \sinNng.virama;
+    sub \sinNya \sinVirama  by \sinNy.virama;
+    sub \sinPa \sinVirama  by \sinP.virama;
+    sub \sinPha \sinVirama  by \sinPh.virama;
+    sub \sinRa \sinVirama  by \sinR.virama;
+    sub \sinSa \sinVirama  by \sinS.virama;
+    sub \sinSha \sinVirama  by \sinSh.virama;
+    sub \sinSsa \sinVirama  by \sinSs.virama;
+    sub \sinTa \sinVirama  by \sinT.virama;
+    sub \sinTha \sinVirama  by \sinTh.virama;
+    sub \sinTta \sinVirama  by \sinTt.virama;
+    sub \sinTtha \sinVirama  by \sinTth.virama;
+    sub \sinVa \sinVirama  by \sinV.virama;
+    sub \sinYa \sinVirama  by \sinY.virama;
+} sin_virama_1;
+
+lookup sin_virama_2 {
+  lookupflag 0;
+    sub \sinDDha \sinVirama  by \sinDDdh.virama;
+    sub \sinDVa \sinVirama  by \sinDV.virama;
+    sub \sinGRa \sinVirama  by \sinGR.virama;
+    sub \sinKSsa \sinVirama  by \sinKSs.virama;
+    sub \sinKVa \sinVirama  by \sinKV.virama;
+    sub \sinKhRa \sinVirama  by \sinKhR.virama;
+    sub \sinNDa \sinVirama  by \sinND.virama;
+    sub \sinNDha \sinVirama  by \sinNDh.virama;
+    sub \sinNTha \sinVirama  by \sinNTh.virama;
+    sub \sinNVa \sinVirama  by \sinNV.virama;
+    sub \sinTTha \sinVirama  by \sinTTh.virama;
+    sub \sinTVa \sinVirama  by \sinTV.virama;
+    sub \sinTtTtha \sinVirama  by \sinTtTth.virama;
+    sub \sinYa.post \sinVirama  by \sinY.post.virama;
+} sin_virama_2;
+
+lookup sin_virama_3 {
+  lookupflag 0;
+    sub \sinBRa \sinVirama  by \sinBR.virama;
+    sub \sinBhRa \sinVirama  by \sinBhRa.virama;
+    sub \sinCRa \sinVirama  by \sinCR.virama;
+    sub \sinDRa \sinVirama  by \sinDR.virama;
+    sub \sinDdRa \sinVirama  by \sinDdR.virama;
+    sub \sinDhRa \sinVirama  by \sinDhR.virama;
+    sub \sinFRa \sinVirama  by \sinFR.virama;
+    sub \sinGhRa \sinVirama  by \sinGhR.virama;
+    sub \sinHRa \sinVirama  by \sinHR.virama;
+    sub \sinJRa \sinVirama  by \sinJR.virama;
+    sub \sinJhRa \sinVirama  by \sinJhR.virama;
+    sub \sinJnyRa \sinVirama  by \sinJnyR.virama;
+    sub \sinMRa \sinVirama  by \sinMR.virama;
+    sub \sinNdjRa \sinVirama  by \sinNdjR.virama;
+    sub \sinNyRa \sinVirama  by \sinNyR.virama;
+    sub \sinPRa \sinVirama  by \sinPR.virama;
+    sub \sinSRa \sinVirama  by \sinSR.virama;
+    sub \sinShRa \sinVirama  by \sinShR.virama;
+    sub \sinSsRa \sinVirama  by \sinSsR.virama;
+    sub \sinTRa \sinVirama  by \sinTR.virama;
+    sub \sinTtRa \sinVirama  by \sinTtR.virama;
+    sub \sinVRa \sinVirama  by \sinVR.virama;
+} sin_virama_3;
+
+lookup sin_blws {
+  lookupflag 0;
+    sub \sinBa \sinMatraU  by \sinBU;
+    sub \sinBa \sinMatraUu  by \sinBUu;
+    sub \sinBha \sinMatraU  by \sinBhU;
+    sub \sinBha \sinMatraUu  by \sinBhUu;
+    sub \sinCa \sinMatraU  by \sinCU;
+    sub \sinCa \sinMatraUu  by \sinCUu;
+    sub \sinCha \sinMatraU  by \sinChU;
+    sub \sinCha \sinMatraUu  by \sinChUu;
+    sub \sinDDha \sinMatraU  by \sinDDhU;
+    sub \sinDDha \sinMatraUu  by \sinDDhUu;
+    sub \sinDa \sinMatraU  by \sinDU;
+    sub \sinDa \sinMatraUu  by \sinDUu;
+    sub \sinDVa \sinMatraU  by \sinDVU;
+    sub \sinDVa \sinMatraUu  by \sinDVUu;
+    sub \sinDda \sinMatraU  by \sinDdU;
+    sub \sinDda \sinMatraUu  by \sinDdUu;
+    sub \sinDdha \sinMatraU  by \sinDdhU;
+    sub \sinDdha \sinMatraUu  by \sinDdhUu;
+    sub \sinDha \sinMatraU  by \sinDhU;
+    sub \sinDha \sinMatraUu  by \sinDhUu;
+    sub \sinDa \sinMatraR  by \sinDvocR;
+    sub \sinDa \sinMatraRr  by \sinDvocRr;
+    sub \sinFa \sinMatraU  by \sinFU;
+    sub \sinFa \sinMatraUu  by \sinFUu;
+    sub \sinGa \sinMatraU  by \sinGU;
+    sub \sinGa \sinMatraUu  by \sinGUu;
+    sub \sinGha \sinMatraU  by \sinGhU;
+    sub \sinGha \sinMatraUu  by \sinGhUu;
+    sub \sinHa \sinMatraU  by \sinHU;
+    sub \sinHa \sinMatraUu  by \sinHUu;
+    sub \sinJa \sinMatraU  by \sinJU;
+    sub \sinJa \sinMatraUu  by \sinJUu;
+    sub \sinJha \sinMatraU  by \sinJhU;
+    sub \sinJha \sinMatraUu  by \sinJhUu;
+    sub \sinJnya \sinMatraU  by \sinJnyU;
+    sub \sinJnya \sinMatraUu  by \sinJnyUu;
+    sub \sinKSsa \sinMatraU  by \sinKSsU;
+    sub \sinKSsa \sinMatraUu  by \sinKSsUu;
+    sub \sinKa \sinMatraU  by \sinKU;
+    sub \sinKa \sinMatraUu  by \sinKUu;
+    sub \sinKVa \sinMatraU  by \sinKVU;
+    sub \sinKVa \sinMatraUu  by \sinKVUu;
+    sub \sinKha \sinMatraU  by \sinKhU;
+    sub \sinKha \sinMatraUu  by \sinKhUu;
+    sub \sinLa \sinMatraU  by \sinLU;
+    sub \sinLa \sinMatraUu  by \sinLUu;
+    sub \sinLla \sinMatraU  by \sinLlU;
+    sub \sinLla \sinMatraUu  by \sinLlUu;
+    sub \sinMa \sinMatraU  by \sinMU;
+    sub \sinMa \sinMatraUu  by \sinMUu;
+    sub \sinMba \sinMatraU  by \sinMbU;
+    sub \sinMba \sinMatraUu  by \sinMbUu;
+    sub \sinNDa \sinMatraU  by \sinNDU;
+    sub \sinNDa \sinMatraUu  by \sinNDUu;
+    sub \sinNDha \sinMatraU  by \sinNDhU;
+    sub \sinNDha \sinMatraUu  by \sinNDhUu;
+    sub \sinNTha \sinMatraU  by \sinNThU;
+    sub \sinNTha \sinMatraUu  by \sinNThUu;
+    sub \sinNa \sinMatraU  by \sinNU;
+    sub \sinNa \sinMatraUu  by \sinNUu;
+    sub \sinNVa \sinMatraU  by \sinNVU;
+    sub \sinNVa \sinMatraUu  by \sinNVUu;
+    sub \sinNda \sinMatraU  by \sinNdU;
+    sub \sinNda \sinMatraUu  by \sinNdUu;
+    sub \sinNdja \sinMatraU  by \sinNdjU;
+    sub \sinNdja \sinMatraUu  by \sinNdjUu;
+    sub \sinNna \sinMatraU  by \sinNnU;
+    sub \sinNna \sinMatraUu  by \sinNnUu;
+    sub \sinNndda \sinMatraU  by \sinNnddU;
+    sub \sinNndda \sinMatraUu  by \sinNnddUu;
+    sub \sinNnga \sinMatraU  by \sinNngU;
+    sub \sinNnga \sinMatraUu  by \sinNngUu;
+    sub \sinNya \sinMatraU  by \sinNyU;
+    sub \sinNya \sinMatraUu  by \sinNyUu;
+    sub \sinPa \sinMatraU  by \sinPU;
+    sub \sinPa \sinMatraUu  by \sinPUu;
+    sub \sinPha \sinMatraU  by \sinPhU;
+    sub \sinPha \sinMatraUu  by \sinPhUu;
+    sub \sinRa \sinMatraU  by \sinRU;
+    sub \sinRa \sinMatraUu  by \sinRUu;
+    sub \sinSa \sinMatraU  by \sinSU;
+    sub \sinSa \sinMatraUu  by \sinSUu;
+    sub \sinSha \sinMatraU  by \sinShU;
+    sub \sinSha \sinMatraUu  by \sinShUu;
+    sub \sinSsa \sinMatraU  by \sinSsU;
+    sub \sinSsa \sinMatraUu  by \sinSsUu;
+    sub \sinTTha \sinMatraU  by \sinTThU;
+    sub \sinTTha \sinMatraUu  by \sinTThUu;
+    sub \sinTa \sinMatraU  by \sinTU;
+    sub \sinTa \sinMatraUu  by \sinTUu;
+    sub \sinTVa \sinMatraU  by \sinTVU;
+    sub \sinTVa \sinMatraUu  by \sinTVUu;
+    sub \sinTha \sinMatraU  by \sinThU;
+    sub \sinTha \sinMatraUu  by \sinThUu;
+    sub \sinTtTtha \sinMatraU  by \sinTtTthU;
+    sub \sinTtTtha \sinMatraUu  by \sinTtTthUu;
+    sub \sinTta \sinMatraU  by \sinTtU;
+    sub \sinTta \sinMatraUu  by \sinTtUu;
+    sub \sinTtha \sinMatraU  by \sinTthU;
+    sub \sinTtha \sinMatraUu  by \sinTthUu;
+    sub \sinVa \sinMatraU  by \sinVU;
+    sub \sinVa \sinMatraUu  by \sinVUu;
+    sub \sinYa \sinMatraU  by \sinYU;
+    sub \sinYa.post \sinMatraU  by \sinYU.post;
+    sub \sinYa \sinMatraUu  by \sinYUu;
+    sub \sinYa.post \sinMatraUu  by \sinYUu.post;
+} sin_blws;
+
+lookup sin_raer {
+  lookupflag 0;
+    sub \sinRa \sinMatraAae  by \sinRAae;
+    sub \sinRa \sinMatraAe  by \sinRAe;
+} sin_raer;
+
+lookup ss_01 {
+  lookupflag 0;
+    sub \sinDa \sinMatraAa  by \sinDAa.ss01;
+    sub \sinDa \sinMatraAa.virama  by \sinDAa.virama.ss01;
+    sub \sinDa \sinMatraAae  by \sinDAae.ss01;
+    sub \sinDa \sinMatraAe  by \sinDAe.ss01;
+    sub \sinDa \sinYa.post \sinMatraAa  by \sinDYAa.post.ss01;
+    sub \sinDa \sinYa.post \sinMatraAa.virama  by \sinDYOo.post.ss01;
+    sub \sinDa \sinYUu.post  by \sinDYUu.post.ss01;
+    sub \sinDa \sinYa.post  by \sinDYa.post.ss01;
+    sub \sinDa \sinYU.post  by \sinDYu.post.ss01;
+    sub \sinJnya \sinMatraAa  by \sinJnyAa.ss01;
+    sub \sinJnya \sinMatraAa.virama  by \sinJnyAa.virama.ss01;
+    sub \sinJnya \sinMatraAe  by \sinJnyAe.ss01;
+    sub \sinJnya \sinMatraAae  by \sinJnyAee.ss01;
+    sub \sinNDa \sinMatraAa  by \sinNDAa.ss01;
+    sub \sinNDa \sinMatraAa.virama  by \sinNDAa.virama.ss01;
+    sub \sinNDa \sinMatraAe  by \sinNDAe.ss01;
+    sub \sinNDa \sinMatraAae  by \sinNDAee.ss01;
+    sub \sinNda \sinMatraAa  by \sinNdAa.ss01;
+    sub \sinNda \sinMatraAa.virama  by \sinNdAa.virama.ss01;
+    sub \sinNda \sinMatraAae  by \sinNdAae.ss01;
+    sub \sinNda \sinMatraAe  by \sinNdAe.ss01;
+    sub \sinNya \sinMatraAa  by \sinNyAa.ss01;
+    sub \sinNya \sinMatraAa.virama  by \sinNyAa.virama.ss01;
+    sub \sinNya \sinMatraAe  by \sinNyAe.ss01;
+    sub \sinNya \sinMatraAae  by \sinNyAee.ss01;
+} ss_01;
+
+lookup sin_yansaya_ss02 {
+  lookupflag 0;
+    sub \sinVirama \zerowidthjoiner \sinYa  by \sinYa.post;
+} sin_yansaya_ss02;
+
+lookup sin_rakar_ss02 {
+  lookupflag 0;
+    sub \sinBa \sinVirama \zerowidthjoiner \sinRa  by \sinBRa;
+    sub \sinBha \sinVirama \zerowidthjoiner \sinRa  by \sinBhRa;
+    sub \sinCa \sinVirama \zerowidthjoiner \sinRa  by \sinCRa;
+    sub \sinDa \sinVirama \zerowidthjoiner \sinRa  by \sinDRa;
+    sub \sinDda \sinVirama \zerowidthjoiner \sinRa  by \sinDdRa;
+    sub \sinDha \sinVirama \zerowidthjoiner \sinRa  by \sinDhRa;
+    sub \sinFa \sinVirama \zerowidthjoiner \sinRa  by \sinFRa;
+    sub \sinGa \sinVirama \zerowidthjoiner \sinRa  by \sinGRa;
+    sub \sinGha \sinVirama \zerowidthjoiner \sinRa  by \sinGhRa;
+    sub \sinHa \sinVirama \zerowidthjoiner \sinRa  by \sinHRa;
+    sub \sinJa \sinVirama \zerowidthjoiner \sinRa  by \sinJRa;
+    sub \sinJha \sinVirama \zerowidthjoiner \sinRa  by \sinJhRa;
+    sub \sinJnya \sinVirama \zerowidthjoiner \sinRa  by \sinJnyRa;
+    sub \sinKa \sinVirama \zerowidthjoiner \sinRa  by \sinKRa;
+    sub \sinKha \sinVirama \zerowidthjoiner \sinRa  by \sinKhRa;
+    sub \sinMa \sinVirama \zerowidthjoiner \sinRa  by \sinMRa;
+    sub \sinNDa \sinVirama \zerowidthjoiner \sinRa  by \sinNDRa;
+    sub \sinNdja \sinVirama \zerowidthjoiner \sinRa  by \sinNdjRa;
+    sub \sinNya \sinVirama \zerowidthjoiner \sinRa  by \sinNyRa;
+    sub \sinPa \sinVirama \zerowidthjoiner \sinRa  by \sinPRa;
+    sub \sinSa \sinVirama \zerowidthjoiner \sinRa  by \sinSRa;
+    sub \sinSha \sinVirama \zerowidthjoiner \sinRa  by \sinShRa;
+    sub \sinSsa \sinVirama \zerowidthjoiner \sinRa  by \sinSsRa;
+    sub \sinTa \sinVirama \zerowidthjoiner \sinRa  by \sinTRa;
+    sub \sinTta \sinVirama \zerowidthjoiner \sinRa  by \sinTtRa;
+    sub \sinVa \sinVirama \zerowidthjoiner \sinRa  by \sinVRa;
+} sin_rakar_ss02;
+
+feature frac {
+
+ script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup0;
+
+ script latn;
+     language dflt ;
+      lookup fracDiagonalFractionslookup0;
+     language AZE  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language CAT  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language CRT  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language KAZ  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language MOL  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language ROM  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language TAT  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+     language TRK  exclude_dflt;
+      lookup fracDiagonalFractionslookup0;
+
+ script sinh;
+     language dflt ;
+      lookup fracDiagonalFractionslookup0;
+} frac;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup1;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigatureslookup1;
+     language AZE  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language CAT  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language CRT  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language KAZ  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language MOL  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language ROM  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language TAT  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+     language TRK  exclude_dflt;
+      lookup ligaStandardLigatureslookup1;
+
+ script sinh;
+     language dflt ;
+      lookup ligaStandardLigatureslookup1;
+} liga;
+
+feature akhn {
+
+ script sinh;
+     language dflt ;
+      lookup sin_akhands;
+} akhn;
+
+feature rphf {
+
+ script sinh;
+     language dflt ;
+      lookup sin_reph;
+} rphf;
+
+feature vatu {
+
+ script sinh;
+     language dflt ;
+      lookup sin_yansaya;
+      lookup sin_rakar;
+} vatu;
+
+feature pstf {
+
+ script sinh;
+     language dflt ;
+      lookup sin_split_matra;
+} pstf;
+
+feature abvs {
+
+ script sinh;
+     language dflt ;
+      lookup sin_abvs_1;
+      lookup sin_abvs_2;
+      lookup sin_abvs_3;
+      lookup sin_abvs_4;
+      lookup sin_abvs_5;
+      lookup sin_abvs_6;
+      lookup sin_virama_1;
+      lookup sin_virama_2;
+      lookup sin_virama_3;
+} abvs;
+
+feature blws {
+
+ script sinh;
+     language dflt ;
+      lookup sin_blws;
+} blws;
+
+feature psts {
+
+ script sinh;
+     language dflt ;
+      lookup sin_raer;
+} psts;
+
+feature ss01 {
+
+ script sinh;
+     language dflt ;
+      lookup ss_01;
+} ss01;
+
+feature ss02 {
+
+ script sinh;
+     language dflt ;
+      lookup sin_yansaya_ss02;
+      lookup sin_rakar_ss02;
+} ss02;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    pos \sinBIi \sinBa 10;
+} kernHorizontalKerninglookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\.null \A \B \C \CR \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y 
+	\Z \a \ampersand \approxequal \asciicircum \asciitilde \asterisk \at \b 
+	\backslash \bar \braceleft \braceright \bracketleft \bracketright \brokenbar 
+	\bullet \bulletoperator \c \cedi \cent \colon \colonsign \comma \copyright 
+	\crescentmoon \currency \d \dagger \daggerdbl \degree \divide \divisionslash 
+	\dollar \dong \dottedCircle \e \eight \ellipsis \emdash \endash \equal \euro 
+	\exclam \exclamdown \f \firstquartermoon \five \florin \four \foursuperior 
+	\fraction \fullmoon \g \greater \greaterequal \guillemetleft \guillemetright 
+	\guilsinglleft \guilsinglright \h \hyphen \i \j \k \l \less \lessequal \logicalnot 
+	\m \micro \minus \mooniak \moonwithface \multiply \n \nbspace \nine \notequal 
+	\numbersign \numero \o \one \onesuperior \p \paragraph \parenleft \parenright 
+	\percent \period \periodcentered \periodcentered.loclCAT \perthousand \plus 
+	\plusminus \q \question \questiondown \quotedbl \quotedblbase \quotedblleft 
+	\quotedblright \quoteleft \quoteright \quotesinglbase \quotesingle \r 
+	\registered \rupeeIndian \s \schwa \section \semicolon \seven \sinA \sinAa 
+	\sinAae \sinAe \sinAi \sinAnusvara \sinAu \sinBa \sinBha \sinCa \sinCha \sinDa 
+	\sinDda \sinDda.virama \sinDdha \sinDha \sinDrI \sinDrIi \sinDra \sinE \sinEe 
+	\sinFRI \sinFRIi \sinFa \sinGa \sinGha \sinHa \sinI \sinIi \sinJa \sinJha \sinJnya 
+	\sinKa \sinKha \sinKundaliya \sinLa \sinLla \sinMa \sinMatraAa \sinMatraAae 
+	\sinMatraAe \sinMatraAi \sinMatraAu \sinMatraE \sinMatraEe \sinMatraI 
+	\sinMatraI.alt \sinMatraI.alt1 \sinMatraI.alt2 \sinMatraI.alt3 \sinMatraIi 
+	\sinMatraIi.alt \sinMatraIi.alt1 \sinMatraIi.alt2 \sinMatraIi.alt3 
+	\sinMatraLl \sinMatraLs \sinMatraO \sinMatraOo \sinMatraR \sinMatraRr 
+	\sinMatraU \sinMatraU.alt \sinMatraU.alt1 \sinMatraU.alt2 \sinMatraU.alt3 
+	\sinMatraUu \sinMatraUu.alt \sinMatraUu.alt1 \sinMatraUu.alt2 
+	\sinMatraUu.alt3 \sinMba \sinNDRI \sinNDRIi \sinNa \sinNdRa \sinNda \sinNdda 
+	\sinNdja \sinNga \sinNna \sinNndda \sinNnga \sinNya \sinO \sinOo \sinPa \sinPha 
+	\sinRa \sinRakar \sinRakar.long \sinRakar.medium \sinRakar.short \sinSa 
+	\sinSha \sinSsRI \sinSsRIi \sinSsa \sinTa \sinTha \sinTta \sinTtha \sinU \sinUu 
+	\sinVa \sinVirama \sinVisarga \sinVocalicR \sinVocalicl \sinVocalicll \sinYa 
+	\sinvocalicRr \six \slash \softhyphen \space \sterling \sun \sunwithface \t 
+	\three \threesuperior \trademark \two \twosuperior \u \underscore \v \w \x \y \yen 
+	\z \zero \zerowidthjoiner \zerowidthnonjoiner ];
+@GDEF_Ligature = [\f_f \f_f_i \f_f_l \fi \fl \onehalf \onequarter \sinB.virama 
+	\sinBI \sinBIi \sinBR.virama \sinBRI \sinBRIi \sinBRa \sinBU \sinBUu 
+	\sinBh.virama \sinBhI \sinBhIi \sinBhRI \sinBhRIi \sinBhRa \sinBhRa.virama 
+	\sinBhU \sinBhUu \sinC.virama \sinCI \sinCIi \sinCR.virama \sinCRI \sinCRIi 
+	\sinCRa \sinCU \sinCUu \sinCh.virama \sinChI \sinChIi \sinChU \sinChUu 
+	\sinD.virama \sinDAa.ss01 \sinDAa.virama.ss01 \sinDAae.ss01 \sinDAe.ss01 
+	\sinDDdh.virama \sinDDhI \sinDDhIi \sinDDhU \sinDDhUu \sinDDha \sinDI \sinDIi 
+	\sinDR.virama \sinDRI \sinDRIi \sinDRa \sinDU \sinDUu \sinDV.virama \sinDVI 
+	\sinDVIi \sinDVU \sinDVUu \sinDVa \sinDYAa.post.ss01 \sinDYOo.post.ss01 
+	\sinDYUu.post.ss01 \sinDYa.post.ss01 \sinDYu.post.ss01 \sinDd.virama \sinDdI 
+	\sinDdIi \sinDdR.virama \sinDdRI \sinDdRIi \sinDdRa \sinDdU \sinDdUu 
+	\sinDdh.virama \sinDdhI \sinDdhIi \sinDdhU \sinDdhUu \sinDh.virama \sinDhI 
+	\sinDhIi \sinDhR.virama \sinDhRI \sinDhRIi \sinDhRa \sinDhU \sinDhUu \sinDvocR 
+	\sinDvocRr \sinF.virama \sinFI \sinFIi \sinFR.virama \sinFRa \sinFU \sinFUu 
+	\sinG.virama \sinGDha \sinGI \sinGIi \sinGR.virama \sinGRI \sinGRIi \sinGRa 
+	\sinGU \sinGUu \sinGh.virama \sinGhI \sinGhIi \sinGhR.virama \sinGhRI \sinGhRIi 
+	\sinGhRa \sinGhU \sinGhUu \sinH.virama \sinHI \sinHIi \sinHR.virama \sinHRI 
+	\sinHRIi \sinHRa \sinHU \sinHUu \sinJ.virama \sinJI \sinJIi \sinJR.virama 
+	\sinJRI \sinJRIi \sinJRa \sinJU \sinJUu \sinJh.virama \sinJhI \sinJhIi 
+	\sinJhR.virama \sinJhRI \sinJhRIi \sinJhRa \sinJhU \sinJhUu \sinJny.virama 
+	\sinJnyAa.ss01 \sinJnyAa.virama.ss01 \sinJnyAe.ss01 \sinJnyAee.ss01 \sinJnyI 
+	\sinJnyIi \sinJnyR.virama \sinJnyRI \sinJnyRIi \sinJnyRa \sinJnyU \sinJnyUu 
+	\sinK.virama \sinKI \sinKIi \sinKRI \sinKRIi \sinKRa \sinKSs.virama \sinKSsI 
+	\sinKSsIi \sinKSsU \sinKSsUu \sinKSsa \sinKU \sinKUu \sinKV.virama \sinKVI 
+	\sinKVIi \sinKVU \sinKVUu \sinKVa \sinKh.virama \sinKhI \sinKhIi \sinKhR.virama 
+	\sinKhRI \sinKhRIi \sinKhRa \sinKhU \sinKhUu \sinL.virama \sinLI \sinLIi \sinLU 
+	\sinLUu \sinLl.virama \sinLlI \sinLlIi \sinLlU \sinLlUu \sinM.virama \sinMI 
+	\sinMIi \sinMR.virama \sinMRI \sinMRIi \sinMRa \sinMU \sinMUu 
+	\sinMatraAa.virama \sinMb.virama \sinMbI \sinMbIi \sinMbU \sinMbUu 
+	\sinN.virama \sinND.virama \sinNDAa.ss01 \sinNDAa.virama.ss01 \sinNDAe.ss01 
+	\sinNDAee.ss01 \sinNDI \sinNDIi \sinNDRa \sinNDU \sinNDUu \sinNDa 
+	\sinNDh.virama \sinNDhI \sinNDhIi \sinNDhU \sinNDhUu \sinNDha \sinNI \sinNIi 
+	\sinNTh.virama \sinNThI \sinNThIi \sinNThU \sinNThUu \sinNTha \sinNU \sinNUu 
+	\sinNV.virama \sinNVI \sinNVIi \sinNVU \sinNVUu \sinNVa \sinNd.virama 
+	\sinNdAa.ss01 \sinNdAa.virama.ss01 \sinNdAae.ss01 \sinNdAe.ss01 \sinNdI 
+	\sinNdIi \sinNdU \sinNdUu \sinNdj.virama \sinNdjI \sinNdjIi \sinNdjR.virama 
+	\sinNdjRa \sinNdjU \sinNdjUu \sinNg.virama \sinNgI \sinNgIi \sinNn.virama 
+	\sinNnI \sinNnIi \sinNnU \sinNnUu \sinNndd.virama \sinNnddI \sinNnddIi 
+	\sinNnddU \sinNnddUu \sinNng.virama \sinNngI \sinNngIi \sinNngU \sinNngUu 
+	\sinNy.virama \sinNyAa.ss01 \sinNyAa.virama.ss01 \sinNyAe.ss01 
+	\sinNyAee.ss01 \sinNyI \sinNyIi \sinNyR.virama \sinNyRI \sinNyRIi \sinNyRa 
+	\sinNyU \sinNyUu \sinP.virama \sinPI \sinPIi \sinPR.virama \sinPRI \sinPRIi 
+	\sinPRa \sinPU \sinPUu \sinPh.virama \sinPhI \sinPhIi \sinPhU \sinPhUu 
+	\sinR.virama \sinRAae \sinRAe \sinRI \sinRIi \sinRU \sinRUu \sinReph 
+	\sinS.virama \sinSI \sinSIi \sinSR.virama \sinSRI \sinSRIi \sinSRa \sinSU 
+	\sinSUu \sinSh.virama \sinShI \sinShIi \sinShR.virama \sinShRI \sinShRIi 
+	\sinShRa \sinShU \sinShUu \sinSs.virama \sinSsI \sinSsIi \sinSsR.virama 
+	\sinSsRa \sinSsU \sinSsUu \sinT.virama \sinTI \sinTIi \sinTR.virama \sinTRI 
+	\sinTRIi \sinTRa \sinTTh.virama \sinTThI \sinTThIi \sinTThU \sinTThUu \sinTTha 
+	\sinTU \sinTUu \sinTV.virama \sinTVI \sinTVIi \sinTVU \sinTVUu \sinTVa 
+	\sinTh.virama \sinThI \sinThIi \sinThU \sinThUu \sinTt.virama \sinTtI \sinTtIi 
+	\sinTtR.virama \sinTtRI \sinTtRIi \sinTtRa \sinTtTth.virama \sinTtTthI 
+	\sinTtTthIi \sinTtTthU \sinTtTthUu \sinTtTtha \sinTtU \sinTtUu \sinTth.virama 
+	\sinTthI \sinTthIi \sinTthU \sinTthUu \sinV.virama \sinVI \sinVIi \sinVR.virama 
+	\sinVRI \sinVRIi \sinVRa \sinVU \sinVUu \sinY.post.virama \sinY.virama \sinYI 
+	\sinYI.post \sinYIi \sinYIi.post \sinYU \sinYU.post \sinYUu \sinYUu.post 
+	\sinYa.post \threequarters ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+

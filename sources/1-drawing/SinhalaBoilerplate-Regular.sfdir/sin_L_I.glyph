@@ -1,0 +1,35 @@
+StartChar: sinLI
+Encoding: 519 -1 366
+GlifName: sinL_I_
+Width: 591
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+233 453 m 257
+ 181 444 116 459 116 506 c 256
+ 116 575 241 596 323 596 c 256
+ 390 596 508 589 508 531 c 256
+ 508 497 456 452 411 464 c 257
+ 426 432 l 257
+ 481 413 538 469 538 535 c 256
+ 538 611 453 671 322 671 c 256
+ 190 671 90 596 90 507 c 256
+ 90 447 146 400 186 400 c 257
+ 233 453 l 257
+EndSplineSet
+Refer: 370 3517 N 1 0 0 1 -11 16 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinLa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_1 subtable" sinLa sinMatraI
+EndChar

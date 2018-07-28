@@ -1,0 +1,32 @@
+StartChar: four
+Encoding: 52 52 81
+GlifName: four
+Width: 567
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+533 179 m 257
+ 523 253 l 257
+ 444 247 180 243 74 245 c 257
+ 69 199 l 257
+ 159 312 331 547 360 627 c 257
+ 306 629 278 625 250 618 c 257
+ 212 526 129 409 23 207 c 257
+ 46 177 l 257
+ 533 179 l 257
+395 -9 m 257
+ 394 195 398 264 409 431 c 257
+ 360 417 329 388 329 388 c 257
+ 332 300 324 199 315 -9 c 257
+ 395 -9 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

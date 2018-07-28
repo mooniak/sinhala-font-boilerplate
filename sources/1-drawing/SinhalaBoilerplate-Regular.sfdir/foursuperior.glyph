@@ -1,0 +1,40 @@
+StartChar: foursuperior
+Encoding: 279 8308 82
+GlifName: foursuperior
+Width: 355
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+321 494 m 257
+ 316 547 l 257
+ 272 544 110 541 51 542 c 257
+ 64 521 l 257
+ 116 581 208 718 224 762 c 257
+ 194 762 163 761 148 757 c 257
+ 130 707 81 626 23 517 c 257
+ 28 493 l 257
+ 321 494 l 257
+252 411 m 257
+ 252 505 247 553 253 655 c 257
+ 226 647 195 631 195 631 c 257
+ 197 580 199 507 194 411 c 257
+ 252 411 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'four'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'four'
+p7
+s."
+EndChar

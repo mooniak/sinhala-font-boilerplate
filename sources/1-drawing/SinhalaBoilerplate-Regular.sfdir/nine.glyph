@@ -1,0 +1,32 @@
+StartChar: nine
+Encoding: 57 57 109
+GlifName: nine
+Width: 487
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+453 392 m 256
+ 453 488 407 621 251 621 c 256
+ 118 621 58 515 58 407 c 256
+ 58 272 153 219 226 219 c 256
+ 276 219 339 236 400 323 c 257
+ 402 324 383 352 384 352 c 257
+ 375 343 330 291 246 291 c 256
+ 195 291 141 333 141 433 c 256
+ 141 516 179 572 243 572 c 256
+ 329 572 359 469 359 362 c 256
+ 359 208 279 58 94 52 c 257
+ 100 -3 l 257
+ 333 -11 453 183 453 392 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

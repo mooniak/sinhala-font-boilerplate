@@ -1,0 +1,38 @@
+StartChar: daggerdbl
+Encoding: 264 8225 56
+GlifName: daggerdbl
+Width: 332
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+138 391 m 256
+ 140 220 139 49 135 -122 c 257
+ 208 -122 l 257
+ 198 25 200 219 200 390 c 257
+ 207 577 l 257
+ 184 574 162 574 132 570 c 257
+ 137 511 137 450 138 391 c 256
+  PathStart: -2
+18 355 m 257
+ 126 360 220 363 316 353 c 257
+ 317 373 319 407 313 427 c 257
+ 196 417 129 417 16 424 c 257
+ 15 403 15 376 18 355 c 257
+  PathStart: -2
+18 55 m 257
+ 126 60 220 62 316 53 c 257
+ 317 73 319 106 313 127 c 257
+ 196 116 129 116 16 124 c 257
+ 15 103 15 75 18 55 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

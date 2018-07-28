@@ -1,0 +1,56 @@
+StartChar: sinDhI
+Encoding: 393 -1 240
+GlifName: sinD_hI_
+Width: 644
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+346 515 m 256
+ 265 515 238 493 182 493 c 256
+ 154 493 136 510 136 536 c 256
+ 136 570 181 612 311 612 c 256
+ 413 612 501 594 501 546 c 256
+ 501 511 452 497 408 508 c 257
+ 432 451 l 257
+ 478 443 531 487 531 548 c 256
+ 531 621 471 685 326 685 c 256
+ 205 685 103 614 103 515 c 256
+ 103 474 128 432 201 432 c 256
+ 252 432 280 454 348 454 c 256
+ 446 454 552 392 552 256 c 256
+ 552 150 497 65 422 65 c 256
+ 389 65 333 82 342 158 c 257
+ 323 154 l 257
+ 307 110 273 67 201 69 c 256
+ 125 71 87 120 88 176 c 256
+ 90 261 188 312 328 282 c 257
+ 339 295 l 257
+ 337 317 329 343 319 362 c 257
+ 186 377 51 305 50 156 c 256
+ 49 51 104 -15 203 -15 c 256
+ 288 -15 324 48 329 83 c 257
+ 330 83 319 94 321 105 c 257
+ 311 54 344 -16 428 -16 c 256
+ 545 -16 596 136 594 259 c 257
+ 594 433 472 515 346 515 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinDha'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinDha'
+p7
+s."
+Ligature2: "sin_abvs_1 subtable" sinDha sinMatraI
+EndChar

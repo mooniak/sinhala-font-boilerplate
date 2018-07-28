@@ -1,0 +1,19 @@
+StartChar: sinMatraEe
+Encoding: 547 3546 394
+GlifName: sinM_atraE_e
+Width: 835
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 643 3530 N 1 0 0 1 679 0 2
+Refer: 393 3545 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Substitution2: "sin_split_matra subtable" sinVirama
+EndChar

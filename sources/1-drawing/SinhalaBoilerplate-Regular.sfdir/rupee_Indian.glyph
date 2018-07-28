@@ -1,0 +1,45 @@
+StartChar: rupeeIndian
+Encoding: 299 8377 142
+GlifName: rupeeI_ndian
+Width: 586
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+509 560 m 257
+ 505 578 501 600 497 621 c 257
+ 49 621 l 257
+ 53 560 l 257
+ 509 560 l 257
+356 0 m 257
+ 468 0 l 257
+ 445 35 265 319 259 329 c 257
+ 179 308 l 257
+ 275 154 342 47 356 0 c 257
+  PathStart: -2
+69 564 m 257
+ 86 571 143 576 179 575 c 256
+ 279 573 321 533 320 454 c 256
+ 320 388 281 326 189 323 c 256
+ 159 323 74 322 74 329 c 257
+ 74 275 l 258
+ 74 271 142 272 182 272 c 256
+ 296 272 407 349 407 475 c 257
+ 406 560 358 621 239 621 c 256
+ 132 621 174 610 68 617 c 257
+ 69 564 l 257
+517 420 m 257
+ 513 438 509 467 505 487 c 257
+ 337 480 224 474 56 480 c 257
+ 61 420 l 257
+ 517 420 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

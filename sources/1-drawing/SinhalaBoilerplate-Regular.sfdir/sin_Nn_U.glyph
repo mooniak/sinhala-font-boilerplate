@@ -1,0 +1,33 @@
+StartChar: sinNnU
+Encoding: 644 -1 491
+GlifName: sinN_nU_
+Width: 927
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+888 -201 m 257
+ 892 215 l 257
+ 862 213 l 257
+ 840 -133 l 257
+ 667 -147 472 -159 355 -157 c 256
+ 283 -156 261 -105 261 -78 c 257
+ 239 -73 198 -89 187 -101 c 257
+ 195 -143 235 -201 337 -201 c 258
+ 888 -201 l 257
+EndSplineSet
+Refer: 493 3499 N 1 0 0 1 11 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinNna'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_blws subtable" sinNna sinMatraU
+EndChar

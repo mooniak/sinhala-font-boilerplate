@@ -1,0 +1,32 @@
+StartChar: six
+Encoding: 54 54 661
+GlifName: six
+Width: 507
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+460 188 m 256
+ 460 332 369 385 276 385 c 256
+ 227 385 152 364 109 279 c 257
+ 108 278 127 243 126 243 c 257
+ 150 282 196 321 255 321 c 256
+ 313 321 367 286 367 192 c 256
+ 367 97 333 46 267 46 c 256
+ 186 45 147 134 147 244 c 256
+ 147 393 203 550 393 571 c 257
+ 387 621 l 257
+ 180 614 51 447 55 236 c 256
+ 57 117 116 -11 266 -11 c 256
+ 397 -11 460 87 460 188 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,31 @@
+StartChar: sinNdjUu
+Encoding: 635 -1 482
+GlifName: sinN_djU_u
+Width: 726
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+138 17 m 257
+ 109 49 100 133 108 201 c 256
+ 121 322 180 402 250 410 c 257
+ 253 414 l 257
+ 356 450 l 257
+ 353 456 l 257
+ 339 459 321 460 298 460 c 256
+ 187 460 63 361 51 199 c 256
+ 45 124 71 45 104 10 c 257
+ 122 10 133 14 138 17 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 307 -1 N 1 0 0 1 120 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinNdja sinMatraUu
+EndChar

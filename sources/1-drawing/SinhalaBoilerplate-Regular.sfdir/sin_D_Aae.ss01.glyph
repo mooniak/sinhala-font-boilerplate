@@ -1,0 +1,17 @@
+StartChar: sinDAae.ss01
+Encoding: 347 -1 194
+GlifName: sinD_A_ae.ss01
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "ss_01 subtable" sinDa sinMatraAae
+EndChar

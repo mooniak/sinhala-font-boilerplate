@@ -1,0 +1,34 @@
+StartChar: sinYUu.post
+Encoding: 810 -1 657
+GlifName: sinY_U_u.post
+Width: 557
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+343 -179 m 256
+ 399 -179 442 -202 473 -225 c 257
+ 495 -211 l 257
+ 499 225 l 257
+ 468 204 l 257
+ 447 -175 l 257
+ 472 -183 l 257
+ 455 -152 417 -110 350 -110 c 256
+ 273 -110 242 -181 183 -181 c 256
+ 151 -181 118 -150 118 -103 c 257
+ 97 -96 65 -99 46 -109 c 257
+ 46 -150 78 -220 173 -220 c 256
+ 258 -220 272 -179 343 -179 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 659 -1 N 1 0 0.07 1 -22 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinYa.post sinMatraUu
+EndChar

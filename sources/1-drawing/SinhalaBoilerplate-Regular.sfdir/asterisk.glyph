@@ -1,0 +1,39 @@
+StartChar: asterisk
+Encoding: 42 42 33
+GlifName: asterisk
+Width: 289
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+206 450 m 257
+ 194 485 180 527 179 561 c 257
+ 172 547 l 257
+ 195 538 259 534 286 541 c 257
+ 285 551 284 554 283 567 c 257
+ 254 571 206 582 182 597 c 257
+ 182 584 l 257
+ 208 626 215 666 220 694 c 257
+ 199 707 l 257
+ 192 685 154 625 132 608 c 257
+ 154 609 l 257
+ 119 645 74 661 45 671 c 257
+ 27 653 l 257
+ 52 638 103 595 119 564 c 257
+ 119 557 109 592 109 586 c 257
+ 79 567 43 531 22 502 c 257
+ 39 482 l 257
+ 69 510 108 533 143 544 c 257
+ 127 551 l 257
+ 130 526 157 460 178 444 c 257
+ 206 450 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

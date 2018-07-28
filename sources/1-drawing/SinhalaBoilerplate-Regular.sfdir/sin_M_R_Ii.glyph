@@ -1,0 +1,28 @@
+StartChar: sinMRIi
+Encoding: 535 -1 382
+GlifName: sinM_R_I_i
+Width: 636
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+594 290 m 257
+ 571 269 l 257
+ 561 144 521 -137 315 -137 c 256
+ 150 -137 83 -82 83 -82 c 257
+ 75 -85 63 -94 60 -106 c 257
+ 64 -126 141 -218 323 -218 c 256
+ 540 -218 595 58 594 290 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 379 -1 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_4 subtable" sinMRa sinMatraIi
+EndChar

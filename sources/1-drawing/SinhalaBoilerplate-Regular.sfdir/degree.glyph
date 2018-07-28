@@ -1,0 +1,30 @@
+StartChar: degree
+Encoding: 176 176 57
+GlifName: degree
+Width: 463
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+209 477 m 256
+ 209 533 164 578 109 578 c 256
+ 52 578 8 533 8 477 c 256
+ 8 421 52 377 109 377 c 256
+ 164 377 209 421 209 477 c 256
+  PathStart: -2
+64 477 m 256
+ 64 501 85 522 110 522 c 256
+ 135 522 156 501 156 477 c 256
+ 156 451 135 430 110 430 c 256
+ 85 430 64 451 64 477 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

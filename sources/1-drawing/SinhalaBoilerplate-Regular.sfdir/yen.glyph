@@ -1,0 +1,29 @@
+StartChar: yen
+Encoding: 165 165 681
+GlifName: yen
+Width: 558
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+501 256 m 257
+ 497 275 493 296 489 316 c 257
+ 357 309 218 309 69 316 c 257
+ 74 256 l 257
+ 501 256 l 257
+501 156 m 257
+ 497 174 493 196 489 216 c 257
+ 357 209 218 209 69 216 c 257
+ 74 156 l 257
+ 501 156 l 257
+EndSplineSet
+Refer: 26 89 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

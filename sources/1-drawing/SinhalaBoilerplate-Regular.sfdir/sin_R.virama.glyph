@@ -1,0 +1,34 @@
+StartChar: sinR.virama
+Encoding: 691 -1 538
+GlifName: sinR_.virama
+Width: 535
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+122 356 m 257
+ 130 596 l 257
+ 139 574 161 550 193 551 c 256
+ 243 551 256 594 249 640 c 256
+ 236 735 137 758 115 764 c 257
+ 96 746 l 257
+ 82 317 l 257
+ 122 356 l 257
+130 666 m 257
+ 130 699 l 257
+ 165 694 225 677 226 626 c 256
+ 227 600 207 591 186 596 c 256
+ 155 603 131 629 130 666 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 545 3515 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_1 subtable" sinRa sinVirama
+EndChar

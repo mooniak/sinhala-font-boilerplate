@@ -1,0 +1,31 @@
+StartChar: sinDDdh.virama
+Encoding: 349 -1 196
+GlifName: sinD_D_dh.virama
+Width: 790
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+146 5 m 257
+ 118 37 99 105 108 173 c 256
+ 124 300 240 370 363 347 c 257
+ 346 336 l 257
+ 448 373 l 257
+ 446 382 l 257
+ 433 384 427 385 403 387 c 256
+ 228 405 65 339 51 172 c 256
+ 45 96 79 33 112 -2 c 257
+ 131 -2 142 2 146 5 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 239 -1 N 1 0 0 1 133 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_2 subtable" sinDDha sinVirama
+EndChar

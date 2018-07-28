@@ -1,0 +1,24 @@
+StartChar: exclam
+Encoding: 33 33 70
+GlifName: exclam
+Width: 254
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+149 160 m 257
+ 155 335 166 468 182 617 c 257
+ 156 620 89 613 69 594 c 257
+ 75 470 81 307 86 159 c 257
+ 149 160 l 257
+EndSplineSet
+Refer: 123 46 N 1 0 0 1 0 -8 2
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

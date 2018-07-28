@@ -1,0 +1,17 @@
+StartChar: sinNDAa.virama.ss01
+Encoding: 583 -1 430
+GlifName: sinN_D_A_a.virama.ss01
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "ss_01 subtable" sinNDa sinMatraAa.virama
+EndChar

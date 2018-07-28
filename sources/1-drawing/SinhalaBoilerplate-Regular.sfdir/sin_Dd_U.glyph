@@ -1,0 +1,29 @@
+StartChar: sinDdU
+Encoding: 382 -1 229
+GlifName: sinD_dU_
+Width: 675
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+617 -215 m 257
+ 610 201 l 257
+ 580 199 l 257
+ 562 -143 l 257
+ 461 -157 338 -170 247 -168 c 256
+ 195 -167 173 -119 173 -92 c 257
+ 151 -87 110 -103 99 -115 c 257
+ 107 -157 147 -215 249 -215 c 258
+ 617 -215 l 257
+EndSplineSet
+Refer: 231 3497 N 1 0 0 1 -21 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinDda sinMatraU
+EndChar

@@ -1,0 +1,27 @@
+StartChar: sinThU
+Encoding: 759 -1 606
+GlifName: sinT_hU_
+Width: 609
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 608 3502 N 1 0 0 1 0 0 2
+Refer: 411 3540 N 1 0 0 1 527 10 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinTha'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinTha'
+p7
+s."
+Ligature2: "sin_blws subtable" sinTha sinMatraU
+EndChar

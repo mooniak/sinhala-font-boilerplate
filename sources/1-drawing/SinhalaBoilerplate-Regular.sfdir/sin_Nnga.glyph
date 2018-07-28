@@ -1,0 +1,32 @@
+StartChar: sinNnga
+Encoding: 658 3487 505
+GlifName: sinN_nga
+Width: 819
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+130 9 m 257
+ 115 36 85 109 85 194 c 256
+ 85 309 146 406 249 406 c 257
+ 354 447 l 257
+ 341 450 333 452 297 453 c 256
+ 161 457 30 370 30 206 c 256
+ 30 119 70 33 96 2 c 257
+ 115 2 126 6 130 9 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 276 3484 N 1 0 0 1 90 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinGa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+EndChar

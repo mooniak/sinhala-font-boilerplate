@@ -1,0 +1,36 @@
+StartChar: sinGhUu
+Encoding: 438 -1 285
+GlifName: sinG_hU_u
+Width: 697
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+454 -232 m 256
+ 501 -233 564 -255 596 -275 c 257
+ 634 -263 l 257
+ 642 146 l 257
+ 603 122 l 257
+ 585 -192 l 257
+ 563 -181 490 -168 451 -168 c 256
+ 354 -168 276 -239 183 -239 c 256
+ 149 -239 129 -221 129 -196 c 256
+ 129 -160 166 -119 226 -139 c 257
+ 230 -119 l 257
+ 230 -119 204 -104 172 -104 c 256
+ 107 -104 74 -154 73 -191 c 256
+ 72 -233 99 -280 182 -280 c 256
+ 283 -280 359 -229 454 -232 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 286 3485 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinGha sinMatraUu
+EndChar

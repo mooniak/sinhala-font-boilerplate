@@ -1,0 +1,45 @@
+StartChar: sinMatraAa.virama
+Encoding: 541 -1 388
+GlifName: sinM_atraA_a.virama
+Width: 321
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+179 391 m 257
+ 176 516 l 257
+ 186 497 208 477 239 478 c 256
+ 296 480 311 534 303 583 c 256
+ 288 668 182 695 158 699 c 257
+ 147 689 l 257
+ 146 391 l 257
+ 179 391 l 257
+175 601 m 258
+ 175 634 l 257
+ 209 630 270 617 272 577 c 256
+ 273 551 253 542 233 547 c 257
+ 200 554 175 573 175 601 c 258
+  PathStart: -2
+293 209 m 256
+ 293 353 219 417 156 417 c 256
+ 104 417 77 390 56 370 c 257
+ 52 353 52 336 55 323 c 257
+ 75 335 102 345 129 345 c 256
+ 207 345 253 306 259 241 c 256
+ 268 131 213 64 129 64 c 256
+ 100 64 64 74 45 79 c 257
+ 38 66 35 52 35 33 c 257
+ 39 18 87 -10 139 -10 c 256
+ 258 -10 293 114 293 209 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_1 subtable" sinMatraAa sinVirama
+EndChar

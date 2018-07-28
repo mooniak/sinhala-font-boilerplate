@@ -1,0 +1,19 @@
+StartChar: sinSsUu
+Encoding: 732 -1 579
+GlifName: sinS_sU_u
+Width: 607
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 417 -1 N 1 0 0 1 556 0 2
+Refer: 580 3522 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinSsa sinMatraUu
+EndChar

@@ -1,0 +1,398 @@
+StartChar: sinCI
+Encoding: 329 -1 176
+GlifName: sinC_I_
+Width: 675
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+591 286 m 256
+ 591 434 485 531 355 536 c 256
+ 290 538 237 514 213 514 c 256
+ 181 515 167 524 169 547 c 256
+ 172 594 252 634 333 634 c 256
+ 457 634 526 602 524 560 c 256
+ 521 521 466 494 421 507 c 257
+ 431 467 l 257
+ 507 455 556 512 557 560 c 256
+ 558 635 501 700 373 698 c 256
+ 245 697 130 618 129 529 c 256
+ 128 490 153 459 204 460 c 256
+ 245 460 269 483 348 479 c 256
+ 458 474 543 408 543 308 c 256
+ 543 152 445 63 268 63 c 256
+ 176 63 123 82 123 129 c 256
+ 123 186 199 212 278 212 c 256
+ 298 212 319 210 338 207 c 257
+ 353 219 l 257
+ 355 229 356 238 356 248 c 256
+ 356 319 308 406 203 406 c 256
+ 159 406 117 380 117 337 c 256
+ 117 310 139 291 178 296 c 257
+ 178 304 203 340 243 340 c 256
+ 280 340 313 322 314 271 c 257
+ 308 272 300 272 293 272 c 256
+ 213 272 86 228 86 112 c 256
+ 86 16 184 -30 299 -30 c 256
+ 481 -30 591 102 591 286 c 256
+  PathStart: -2
+317 267 m 257
+ 322 279 l 257
+ 237 280 89 272 29 261 c 257
+ 21 188 l 257
+ 31 180 l 257
+ 70 206 182 260 317 267 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+S'background'
+p6
+(dp7
+S'name'
+p8
+S'sinCI'
+p9
+sS'lib'
+p10
+(dp11
+sS'unicodes'
+p12
+(lp13
+sS'width'
+p14
+I877
+sS'contours'
+p15
+(lp16
+(dp17
+S'points'
+p18
+(lp19
+(dp20
+S'segmentType'
+p21
+S'move'
+p22
+sS'x'
+I764
+sS'smooth'
+p23
+I0
+sS'y'
+I362
+sa(dp24
+S'y'
+I557
+sS'x'
+I775
+sg23
+I0
+sa(dp25
+S'y'
+I690
+sS'x'
+I630
+sg23
+I0
+sa(dp26
+g21
+S'curve'
+p27
+sS'x'
+I461
+sg23
+I1
+sS'y'
+I696
+sa(dp28
+S'y'
+I699
+sS'x'
+I376
+sg23
+I0
+sa(dp29
+S'y'
+I667
+sS'x'
+I308
+sg23
+I0
+sa(dp30
+g21
+S'curve'
+p31
+sS'x'
+I276
+sg23
+I1
+sS'y'
+I668
+sa(dp32
+S'y'
+I669
+sS'x'
+I235
+sg23
+I0
+sa(dp33
+S'y'
+I681
+sS'x'
+I217
+sg23
+I0
+sa(dp34
+g21
+S'curve'
+p35
+sS'x'
+I219
+sg23
+I1
+sS'y'
+I711
+sa(dp36
+S'y'
+I772
+sS'x'
+I223
+sg23
+I0
+sa(dp37
+S'y'
+I823
+sS'x'
+I327
+sg23
+I0
+sa(dp38
+g21
+S'curve'
+p39
+sS'x'
+I433
+sg23
+I1
+sS'y'
+I823
+sa(dp40
+S'y'
+I823
+sS'x'
+I593
+sg23
+I0
+sa(dp41
+S'y'
+I782
+sS'x'
+I683
+sg23
+I0
+sa(dp42
+g21
+S'curve'
+p43
+sS'x'
+I680
+sg23
+I1
+sS'y'
+I727
+sa(dp44
+S'y'
+I677
+sS'x'
+I677
+sg23
+I0
+sa(dp45
+S'y'
+I641
+sS'x'
+I605
+sg23
+I0
+sa(dp46
+g21
+S'curve'
+p47
+sS'x'
+I547
+sg23
+I0
+sS'y'
+I659
+sa(dp48
+g21
+S'line'
+p49
+sS'x'
+I560
+sg23
+I0
+sS'y'
+I607
+sa(dp50
+S'y'
+I591
+sS'x'
+I659
+sg23
+I0
+sa(dp51
+S'y'
+I665
+sS'x'
+I722
+sg23
+I0
+sa(dp52
+g21
+S'curve'
+p53
+sS'x'
+I723
+sg23
+I1
+sS'y'
+I727
+sa(dp54
+S'y'
+I825
+sS'x'
+I725
+sg23
+I0
+sa(dp55
+S'y'
+I909
+sS'x'
+I651
+sg23
+I0
+sa(dp56
+g21
+S'curve'
+p57
+sS'x'
+I484
+sg23
+I1
+sS'y'
+I907
+sa(dp58
+S'y'
+I905
+sS'x'
+I318
+sg23
+I0
+sa(dp59
+S'y'
+I803
+sS'x'
+I169
+sg23
+I0
+sa(dp60
+g21
+S'curve'
+p61
+sS'x'
+I167
+sg23
+I1
+sS'y'
+I687
+sa(dp62
+S'y'
+I636
+sS'x'
+I166
+sg23
+I0
+sa(dp63
+S'y'
+I596
+sS'x'
+I199
+sg23
+I0
+sa(dp64
+g21
+S'curve'
+p65
+sS'x'
+I265
+sg23
+I1
+sS'y'
+I597
+sa(dp66
+S'y'
+I598
+sS'x'
+I318
+sg23
+I0
+sa(dp67
+S'y'
+I627
+sS'x'
+I349
+sg23
+I0
+sa(dp68
+g21
+S'curve'
+p69
+sS'x'
+I452
+sg23
+I1
+sS'y'
+I622
+sa(dp70
+S'y'
+I615
+sS'x'
+I595
+sg23
+I0
+sa(dp71
+S'y'
+I531
+sS'x'
+I713
+sg23
+I0
+sa(dp72
+g21
+S'curve'
+p73
+sS'x'
+I705
+sg23
+I1
+sS'y'
+I374
+sasasS'components'
+p74
+(lp75
+sS'anchors'
+p76
+(lp77
+sss."
+Ligature2: "sin_abvs_1 subtable" sinCa sinMatraI
+EndChar

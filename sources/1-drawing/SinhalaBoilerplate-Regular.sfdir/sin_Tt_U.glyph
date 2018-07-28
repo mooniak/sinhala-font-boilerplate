@@ -1,0 +1,29 @@
+StartChar: sinTtU
+Encoding: 775 -1 622
+GlifName: sinT_tU_
+Width: 602
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+529 -215 m 257
+ 536 281 l 257
+ 506 279 l 257
+ 474 -139 l 257
+ 383 -158 286 -165 204 -164 c 256
+ 143 -163 121 -115 121 -88 c 257
+ 99 -83 58 -99 47 -111 c 257
+ 55 -153 95 -210 197 -211 c 258
+ 529 -215 l 257
+EndSplineSet
+Refer: 624 3495 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinTta sinMatraU
+EndChar

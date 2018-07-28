@@ -1,0 +1,58 @@
+StartChar: sinTt.virama
+Encoding: 762 -1 609
+GlifName: sinT_t.virama
+Width: 573
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+257 685 m 256
+ 163 686 109 648 109 648 c 257
+ 96 624 93 598 91 588 c 257
+ 114 603 124 607 151 617 c 257
+ 172 647 l 257
+ 158 637 122 592 101 523 c 257
+ 128 520 l 257
+ 137 569 192 630 226 635 c 257
+ 204 636 181 637 155 617 c 257
+ 155 617 177 624 239 624 c 256
+ 470 624 497 426 496 378 c 257
+ 533 316 l 257
+ 533 458 472 683 257 685 c 256
+  PathStart: -2
+537 292 m 256
+ 537 471 422 575 261 575 c 256
+ 191 575 144 560 111 549 c 257
+ 101 531 95 503 94 475 c 257
+ 94 473 158 504 254 504 c 256
+ 387 504 492 443 492 309 c 256
+ 492 164 400 66 242 66 c 256
+ 145 66 62 110 62 183 c 256
+ 62 254 139 283 217 283 c 256
+ 237 283 258 281 277 277 c 257
+ 286 291 l 257
+ 284 312 275 334 261 355 c 257
+ 254 356 247 356 240 356 c 256
+ 159 356 20 312 20 164 c 256
+ 20 61 107 -27 243 -27 c 256
+ 429 -27 537 107 537 292 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinTta'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinTta'
+p7
+s."
+Ligature2: "sin_virama_1 subtable" sinTta sinVirama
+EndChar

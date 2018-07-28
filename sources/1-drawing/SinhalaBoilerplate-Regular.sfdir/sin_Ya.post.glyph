@@ -1,0 +1,46 @@
+StartChar: sinYa.post
+Encoding: 812 -1 659
+GlifName: sinY_a.post
+Width: 549
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+513 180 m 256
+ 514 290 423 345 332 336 c 257
+ 332 336 320 416 393 417 c 256
+ 428 417 455 393 453 357 c 256
+ 451 329 427 310 427 310 c 257
+ 432 293 l 257
+ 432 293 512 310 512 386 c 256
+ 512 437 463 471 414 471 c 256
+ 345 471 288 414 288 284 c 257
+ 413 288 472 246 472 186 c 256
+ 473 109 409 63 316 63 c 256
+ 225 63 189 82 171 100 c 257
+ 139 72 l 257
+ 173 36 220 -11 310 -11 c 256
+ 447 -11 512 77 513 180 c 256
+  PathStart: -2
+268 313 m 256
+ 267 361 248 466 141 465 c 256
+ 88 464 47 413 46 390 c 257
+ 57 371 69 360 80 352 c 257
+ 88 376 114 398 145 398 c 256
+ 181 398 230 391 230 313 c 256
+ 230 175 105 82 39 45 c 257
+ 41 26 48 7 62 -12 c 257
+ 181 63 270 180 268 313 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_yansaya_ss02 subtable" sinVirama zerowidthjoiner sinYa
+Ligature2: "sin_yansaya subtable" sinVirama zerowidthjoiner sinYa
+EndChar

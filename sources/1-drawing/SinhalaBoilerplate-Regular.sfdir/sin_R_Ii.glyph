@@ -1,0 +1,35 @@
+StartChar: sinRIi
+Encoding: 695 -1 542
+GlifName: sinR_I_i
+Width: 535
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+223 485 m 257
+ 165 446 65 487 65 552 c 256
+ 65 615 118 645 174 645 c 256
+ 265 645 284 613 284 589 c 256
+ 284 572 274 555 258 555 c 256
+ 242 555 232 570 232 591 c 256
+ 232 609 244 635 266 635 c 257
+ 257 647 l 257
+ 230 647 194 625 194 588 c 256
+ 194 554 224 533 253 533 c 256
+ 295 533 313 564 313 608 c 256
+ 313 651 266 705 189 705 c 256
+ 78 705 32 624 32 556 c 256
+ 32 457 111 419 187 419 c 257
+ 223 485 l 257
+EndSplineSet
+Refer: 545 3515 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_2 subtable" sinRa sinMatraIi
+EndChar

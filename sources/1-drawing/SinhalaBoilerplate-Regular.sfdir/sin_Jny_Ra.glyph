@@ -1,0 +1,54 @@
+StartChar: sinJnyRa
+Encoding: 482 -1 329
+GlifName: sinJ_nyR_a
+Width: 813
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+525 165 m 256
+ 531 234 488 290 420 289 c 257
+ 409 249 l 257
+ 437 248 493 219 485 164 c 256
+ 476 101 384 78 315 79 c 256
+ 216 80 160 142 172 218 c 256
+ 190 332 281 363 373 363 c 257
+ 378 372 389 430 385 447 c 257
+ 293 446 148 352 131 195 c 256
+ 118 75 177 -12 324 -9 c 256
+ 438 -7 517 77 525 165 c 256
+  PathStart: -2
+117 4 m 257
+ 89 36 80 120 88 188 c 256
+ 103 315 186 399 280 407 c 257
+ 283 411 l 257
+ 385 447 l 257
+ 382 453 l 257
+ 369 456 351 457 327 457 c 256
+ 193 457 47 353 31 186 c 256
+ 24 111 50 32 83 -3 c 257
+ 102 -3 113 1 117 4 c 257
+  PathStart: -2
+409 170 m 257
+ 408 290 487 375 641 375 c 257
+ 680 455 l 257
+ 509 453 387 332 373 170 c 257
+ 384 168 396 169 409 170 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 207 -1 N 1 0 0 1 454 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p4
+S'sinNnga'
+p5
+s."
+Ligature2: "sin_rakar_ss02 subtable" sinJnya sinVirama zerowidthjoiner sinRa
+Ligature2: "sin_rakar subtable" sinJnya sinVirama zerowidthjoiner sinRa
+EndChar

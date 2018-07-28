@@ -1,0 +1,36 @@
+StartChar: sinSIi
+Encoding: 706 -1 553
+GlifName: sinS_I_i
+Width: 697
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+152 516 m 256
+ 152 444 207 414 239 414 c 257
+ 256 458 l 257
+ 225 463 184 486 184 523 c 256
+ 184 582 273 599 364 600 c 256
+ 491 601 575 561 575 512 c 256
+ 575 487 562 471 538 471 c 256
+ 518 471 499 487 499 518 c 256
+ 499 545 512 568 534 589 c 257
+ 515 598 l 257
+ 489 584 453 548 452 501 c 256
+ 451 461 484 428 532 428 c 256
+ 569 428 608 459 608 521 c 256
+ 608 595 537 675 389 676 c 256
+ 245 677 152 612 152 516 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 560 3523 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_2 subtable" sinSa sinMatraIi
+EndChar

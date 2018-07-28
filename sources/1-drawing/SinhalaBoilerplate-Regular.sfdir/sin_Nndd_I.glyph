@@ -1,0 +1,31 @@
+StartChar: sinNnddI
+Encoding: 648 -1 495
+GlifName: sinN_nddI_
+Width: 824
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+137 -17 m 257
+ 109 15 99 92 108 159 c 256
+ 124 286 199 352 293 360 c 257
+ 298 361 l 257
+ 386 373 l 257
+ 383 400 l 257
+ 370 407 341 406 318 406 c 256
+ 184 406 65 325 51 158 c 256
+ 45 82 70 12 103 -24 c 257
+ 122 -24 132 -20 137 -17 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 223 -1 N 1 0 0 1 154 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_1 subtable" sinNndda sinMatraI
+EndChar

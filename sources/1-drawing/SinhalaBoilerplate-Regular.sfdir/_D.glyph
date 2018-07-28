@@ -1,0 +1,37 @@
+StartChar: D
+Encoding: 68 68 5
+GlifName: D_
+Width: 631
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+263 0 m 256
+ 477 3 591 158 591 363 c 256
+ 590 531 500 619 328 619 c 256
+ 259 619 162 607 22 615 c 257
+ 28 567 l 257
+ 99 572 105 529 107 484 c 256
+ 113 361 111 266 104 100 c 256
+ 102 62 71 43 18 46 c 257
+ 25 0 l 257
+ 82 0 211 -1 263 0 c 256
+  PathStart: -2
+189 111 m 256
+ 182 172 186 249 186 343 c 256
+ 187 408 192 479 197 554 c 257
+ 218 561 257 569 299 568 c 256
+ 443 565 504 460 504 319 c 256
+ 502 184 436 62 307 60 c 256
+ 229 59 193 75 189 111 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,20 @@
+StartChar: sinJhRa
+Encoding: 468 -1 315
+GlifName: sinJ_hR_a
+Width: 1159
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 318 3491 N 1 0 0 1 0 0 2
+Refer: 548 -1 N 1 0 0 1 1045 28 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_rakar_ss02 subtable" sinJha sinVirama zerowidthjoiner sinRa
+Ligature2: "sin_rakar subtable" sinJha sinVirama zerowidthjoiner sinRa
+EndChar

@@ -1,0 +1,40 @@
+StartChar: cent
+Encoding: 162 162 47
+GlifName: cent
+Width: 447
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+291 504 m 256
+ 357 504 400 483 400 483 c 257
+ 400 474 400 461 400 447 c 256
+ 400 421 400 392 396 371 c 257
+ 352 375 l 257
+ 336 407 323 435 286 460 c 257
+ 312 454 327 440 339 421 c 257
+ 323 434 290 455 251 455 c 256
+ 182 455 132 373 132 263 c 256
+ 132 159 192 96 278 96 c 256
+ 326 96 367 116 394 139 c 257
+ 410 113 l 257
+ 370 67 314 42 246 42 c 256
+ 137 42 43 95 43 246 c 256
+ 43 362 120 504 291 504 c 256
+  PathStart: -2
+229 585 m 257
+ 249 588 271 591 290 594 c 257
+ 288 481 273 61 282 -34 c 257
+ 220 -39 l 257
+ 224 127 233 473 229 585 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

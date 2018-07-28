@@ -1,0 +1,32 @@
+StartChar: dagger
+Encoding: 263 8224 55
+GlifName: dagger
+Width: 309
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+18 362 m 257
+ 139 367 197 370 293 360 c 257
+ 294 380 296 407 290 427 c 257
+ 181 417 142 417 16 424 c 257
+ 15 403 15 383 18 362 c 257
+  PathStart: -2
+119 391 m 256
+ 122 164 120 25 112 -122 c 257
+ 179 -122 l 257
+ 176 7 178 214 181 390 c 258
+ 184 577 l 257
+ 163 574 144 574 115 570 c 257
+ 118 511 119 450 119 391 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

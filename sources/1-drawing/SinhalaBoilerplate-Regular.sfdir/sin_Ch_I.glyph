@@ -1,0 +1,48 @@
+StartChar: sinChI
+Encoding: 339 -1 186
+GlifName: sinC_hI_
+Width: 605
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+370 449 m 257
+ 378 487 l 257
+ 372 487 380 485 357 485 c 256
+ 328 485 260 503 260 568 c 256
+ 260 630 306 656 370 658 c 256
+ 425 659 467 638 484 624 c 257
+ 496 616 501 608 502 600 c 257
+ 543 617 l 257
+ 543 623 537 642 531 655 c 256
+ 527 664 498 720 397 720 c 256
+ 313 720 225 661 225 550 c 256
+ 225 479 275 440 335 440 c 256
+ 347 440 357 440 370 449 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 190 3489 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.typemytype.robofont.guides'
+p4
+(lp5
+(dp6
+S'y'
+I875
+sS'x'
+I138
+sS'angle'
+p7
+I0
+sS'isGlobal'
+p8
+I0
+sas."
+Ligature2: "sin_abvs_1 subtable" sinCha sinMatraI
+EndChar

@@ -1,0 +1,26 @@
+StartChar: sinRakar.long
+Encoding: 700 -1 547
+GlifName: sinR_akar.long
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+311 258 m 257
+ 278 206 l 257
+ 267 -9 186 -150 -21 -162 c 256
+ -155 -170 -253 -80 -253 -93 c 257
+ -262 -96 -270 -102 -275 -109 c 257
+ -271 -129 -164 -249 -9 -243 c 256
+ 181 -236 346 1 311 258 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

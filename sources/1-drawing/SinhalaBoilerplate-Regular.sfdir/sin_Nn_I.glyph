@@ -1,0 +1,48 @@
+StartChar: sinNnI
+Encoding: 642 -1 489
+GlifName: sinN_nI_
+Width: 987
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+263 405 m 257
+ 270 428 l 257
+ 264 427 272 426 249 426 c 256
+ 220 426 156 443 156 500 c 256
+ 156 570 214 604 277 606 c 256
+ 333 608 368 591 387 573 c 256
+ 398 563 402 526 377 503 c 257
+ 404 519 l 257
+ 414 533 434 521 435 563 c 257
+ 437 597 411 676 290 676 c 256
+ 206 676 119 616 117 506 c 256
+ 116 435 167 392 227 392 c 256
+ 240 392 250 396 263 405 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 493 3499 N 1 0 0 1 36 4 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.typemytype.robofont.guides'
+p4
+(lp5
+(dp6
+S'y'
+I875
+sS'x'
+I138
+sS'angle'
+p7
+I0
+sS'isGlobal'
+p8
+I0
+sas."
+Ligature2: "sin_abvs_1 subtable" sinNna sinMatraI
+EndChar

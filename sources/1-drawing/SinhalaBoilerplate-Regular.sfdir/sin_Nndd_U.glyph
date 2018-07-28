@@ -1,0 +1,31 @@
+StartChar: sinNnddU
+Encoding: 650 -1 497
+GlifName: sinN_nddU_
+Width: 822
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+137 -11 m 257
+ 109 22 99 98 108 166 c 256
+ 124 293 204 380 298 388 c 257
+ 303 389 l 257
+ 390 400 l 257
+ 387 427 l 257
+ 374 435 346 434 323 434 c 256
+ 189 434 65 331 51 164 c 256
+ 45 89 70 18 103 -18 c 257
+ 122 -18 132 -14 137 -11 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 229 -1 N 1 0 0 1 146 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinNndda sinMatraU
+EndChar

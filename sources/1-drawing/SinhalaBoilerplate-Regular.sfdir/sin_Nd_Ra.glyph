@@ -1,0 +1,28 @@
+StartChar: sinNdRa
+Encoding: 624 -1 471
+GlifName: sinN_dR_a
+Width: 581
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+159 17 m 257
+ 159 17 87 70 98 214 c 256
+ 109 345 256 419 374 424 c 256
+ 398 425 421 422 447 430 c 257
+ 445 434 l 257
+ 422 444 397 454 364 454 c 256
+ 212 454 61 357 51 199 c 256
+ 45 95 80 22 117 -16 c 257
+ 159 17 l 257
+EndSplineSet
+Refer: 207 -1 N 1 0 0 1 143 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,25 @@
+StartChar: cedi
+Encoding: 260 8373 46
+GlifName: cedi
+Width: 623
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+332 670 m 257
+ 352 672 384 675 403 678 c 257
+ 401 565 387 22 395 -73 c 257
+ 323 -78 l 257
+ 326 89 336 557 332 670 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 3 67 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

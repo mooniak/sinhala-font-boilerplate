@@ -1,0 +1,42 @@
+StartChar: sinMatraAae
+Encoding: 542 3537 389
+GlifName: sinM_atraA_ae
+Width: 321
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+308 -56 m 257
+ 310 -43 301 -28 296 -21 c 257
+ 272 -43 231 -65 184 -65 c 256
+ 126 -65 66 -30 67 42 c 256
+ 68 125 149 173 231 178 c 257
+ 237 183 l 257
+ 208 226 l 257
+ 109 212 21 123 24 21 c 256
+ 26 -60 81 -133 180 -133 c 256
+ 252 -133 294 -82 308 -56 c 257
+  PathStart: -2
+238 223 m 257
+ 220 225 163 231 121 235 c 257
+ 209 284 l 257
+ 213 325 l 257
+ 154 323 95 321 32 324 c 257
+ 27 305 28 288 30 273 c 257
+ 156 286 l 257
+ 119 269 84 255 51 243 c 257
+ 51 234 53 224 56 215 c 257
+ 87 213 137 209 162 207 c 257
+ 237 183 l 257
+ 238 200 238 202 238 223 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

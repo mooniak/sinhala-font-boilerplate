@@ -1,0 +1,35 @@
+StartChar: sinDDhIi
+Encoding: 351 -1 198
+GlifName: sinD_D_hI_i
+Width: 733
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+132 -6 m 257
+ 109 21 92 72 92 127 c 256
+ 92 251 168 330 273 330 c 256
+ 288 330 303 329 319 326 c 257
+ 402 361 l 257
+ 389 363 383 365 359 366 c 256
+ 342 367 326 368 310 368 c 256
+ 159 368 36 297 36 143 c 256
+ 36 75 68 19 98 -13 c 257
+ 117 -13 128 -9 132 -6 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 241 -1 N 1 0 0 1 102 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinDha'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_6 subtable" sinDDha sinMatraIi
+EndChar

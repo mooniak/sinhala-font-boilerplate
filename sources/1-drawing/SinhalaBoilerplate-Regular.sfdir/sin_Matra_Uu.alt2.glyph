@@ -1,0 +1,32 @@
+StartChar: sinMatraUu.alt2
+Encoding: 572 -1 419
+GlifName: sinM_atraU_u.alt2
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-157 -179 m 256
+ -100 -179 -30 -202 10 -225 c 257
+ 32 -211 l 257
+ 27 215 l 257
+ 0 204 l 257
+ -16 -175 l 257
+ 9 -183 l 257
+ -14 -152 -83 -115 -143 -115 c 256
+ -242 -115 -301 -191 -363 -191 c 256
+ -395 -191 -425 -167 -425 -103 c 257
+ -446 -96 -478 -99 -497 -109 c 257
+ -497 -154 -465 -230 -370 -230 c 256
+ -285 -230 -242 -179 -157 -179 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,31 @@
+StartChar: bracketright
+Encoding: 93 93 41
+GlifName: bracketright
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+249 -52 m 257
+ 196 -55 120 -54 69 -52 c 257
+ 65 -85 64 -96 62 -125 c 257
+ 140 -119 227 -123 298 -125 c 257
+ 298 -124 l 257
+ 299 -124 l 257
+ 294 67 294 518 298 633 c 257
+ 244 633 123 631 62 633 c 257
+ 62 607 63 598 65 568 c 257
+ 248 568 l 257
+ 218 584 l 257
+ 226 457 228 47 219 -83 c 257
+ 249 -52 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sinNd.virama" format="1">
+  <advance width="540"/>
+  <outline>
+    <component base="sinNda"/>
+    <component base="sinVirama" xOffset="457" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-27 16:12:40 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>sinVirama</string>
+          <key>alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

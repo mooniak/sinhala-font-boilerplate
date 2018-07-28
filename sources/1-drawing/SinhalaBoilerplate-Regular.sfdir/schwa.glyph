@@ -1,0 +1,33 @@
+StartChar: schwa
+Encoding: 300 601 144
+GlifName: schwa
+Width: 470
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+234 463 m 256
+ 136 462 84 405 72 389 c 257
+ 87 362 l 257
+ 89 362 136 407 211 407 c 256
+ 333 405 362 310 360 208 c 256
+ 359 97 310 25 244 25 c 256
+ 182 25 143 93 143 169 c 257
+ 199 169 l 257
+ 383 187 l 257
+ 370 224 l 257
+ 55 223 l 257
+ 39 64 121 -17 230 -15 c 256
+ 346 -14 453 75 453 250 c 256
+ 453 390 357 464 234 463 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

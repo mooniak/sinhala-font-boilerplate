@@ -1,0 +1,32 @@
+StartChar: sinDVI
+Encoding: 364 -1 211
+GlifName: sinD_V_I_
+Width: 644
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+122 26 m 257
+ 111 51 86 106 86 176 c 256
+ 86 262 126 354 222 361 c 257
+ 259 400 l 257
+ 125 400 37 298 37 187 c 256
+ 37 97 68 46 88 19 c 257
+ 99 19 115 21 122 26 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 634 -1 N 1 0 0 1 79 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinVa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_abvs_5 subtable" sinDVa sinMatraI
+EndChar

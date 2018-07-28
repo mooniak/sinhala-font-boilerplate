@@ -1,0 +1,37 @@
+StartChar: sinMU
+Encoding: 537 -1 384
+GlifName: sinM_U_
+Width: 651
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+615 -212 m 257
+ 617 271 l 257
+ 587 269 l 257
+ 560 -136 l 257
+ 440 -160 350 -161 258 -159 c 256
+ 197 -158 165 -110 165 -83 c 257
+ 143 -78 102 -94 91 -106 c 257
+ 99 -148 139 -204 241 -206 c 258
+ 615 -212 l 257
+EndSplineSet
+Refer: 386 3512 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinMa'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinMa'
+p7
+s."
+Ligature2: "sin_blws subtable" sinMa sinMatraU
+EndChar

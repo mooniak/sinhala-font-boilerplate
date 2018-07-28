@@ -1,0 +1,42 @@
+StartChar: twosuperior
+Encoding: 178 178 674
+GlifName: twosuperior
+Width: 324
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+293 417 m 257
+ 297 504 l 257
+ 253 500 l 257
+ 251 487 253 461 221 461 c 258
+ 89 460 l 257
+ 77 442 l 257
+ 154 488 281 574 280 682 c 256
+ 279 747 237 772 167 772 c 256
+ 126 772 71 759 49 747 c 257
+ 49 747 48 714 51 685 c 257
+ 85 689 l 257
+ 94 732 123 738 141 739 c 256
+ 182 742 203 717 203 674 c 256
+ 203 578 117 519 41 455 c 257
+ 47 417 l 257
+ 293 417 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'two'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'two'
+p7
+s."
+EndChar

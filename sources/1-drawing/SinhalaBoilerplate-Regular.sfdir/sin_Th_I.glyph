@@ -1,0 +1,31 @@
+StartChar: sinThI
+Encoding: 757 -1 604
+GlifName: sinT_hI_
+Width: 609
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+239 570 m 257
+ 226 570 136 566 136 636 c 256
+ 136 695 217 719 286 719 c 256
+ 382 719 467 681 467 627 c 256
+ 467 576 382 572 382 572 c 257
+ 422 544 l 257
+ 470 544 521 600 521 659 c 256
+ 521 713 458 786 333 786 c 256
+ 189 786 107 729 107 630 c 256
+ 107 570 167 514 250 506 c 257
+ 239 570 l 257
+EndSplineSet
+Refer: 608 3502 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_1 subtable" sinTha sinMatraI
+EndChar

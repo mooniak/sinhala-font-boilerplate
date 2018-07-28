@@ -1,0 +1,20 @@
+StartChar: sinFRa
+Encoding: 415 -1 262
+GlifName: sinF_R_a
+Width: 705
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 265 3526 N 1 0 0 1 0 0 2
+Refer: 547 -1 N 1 0 0 1 348 15 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_rakar_ss02 subtable" sinFa sinVirama zerowidthjoiner sinRa
+Ligature2: "sin_rakar subtable" sinFa sinVirama zerowidthjoiner sinRa
+EndChar

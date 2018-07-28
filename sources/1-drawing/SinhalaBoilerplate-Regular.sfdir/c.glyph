@@ -1,0 +1,38 @@
+StartChar: c
+Encoding: 99 99 45
+GlifName: c
+Width: 447
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+294 470 m 256
+ 364 470 408 447 408 447 c 257
+ 409 437 409 424 409 410 c 256
+ 409 383 408 352 404 330 c 257
+ 358 334 l 257
+ 342 367 327 397 290 424 c 257
+ 316 417 333 402 344 383 c 257
+ 327 397 293 418 253 418 c 256
+ 175 418 128 333 128 216 c 256
+ 128 108 185 41 280 41 c 256
+ 331 41 374 62 403 86 c 257
+ 420 59 l 257
+ 377 11 319 -16 246 -16 c 256
+ 132 -16 34 40 34 198 c 256
+ 34 320 115 470 294 470 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p4
+S'=o'
+p5
+s."
+EndChar

@@ -1,0 +1,28 @@
+StartChar: asciitilde
+Encoding: 126 126 32
+GlifName: asciitilde
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+142 327 m 256
+ 228 327 254 283 323 283 c 256
+ 360 283 384 296 408 319 c 257
+ 423 313 433 305 443 295 c 257
+ 419 243 382 218 311 218 c 256
+ 219 218 198 267 126 267 c 256
+ 94 267 64 249 51 226 c 257
+ 40 232 27 239 17 249 c 257
+ 34 290 72 327 142 327 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 1
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

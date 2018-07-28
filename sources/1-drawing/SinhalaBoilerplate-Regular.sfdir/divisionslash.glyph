@@ -1,0 +1,23 @@
+StartChar: divisionslash
+Encoding: 265 8725 59
+GlifName: divisionslash
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+81 -62 m 257
+ 176 167 342 521 406 651 c 257
+ 328 648 l 257
+ 230 412 126 175 7 -62 c 257
+ 81 -62 l 257
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

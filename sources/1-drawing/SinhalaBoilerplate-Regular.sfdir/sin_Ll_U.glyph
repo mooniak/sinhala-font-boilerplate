@@ -1,0 +1,31 @@
+StartChar: sinLlU
+Encoding: 527 -1 374
+GlifName: sinL_lU_
+Width: 674
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+108 64 m 257
+ 79 96 70 180 79 248 c 256
+ 89 326 122 377 162 383 c 257
+ 166 387 l 257
+ 268 423 l 257
+ 265 428 l 257
+ 252 431 233 433 210 433 c 256
+ 125 433 30 361 22 246 c 256
+ 17 171 41 92 74 57 c 257
+ 92 57 103 61 108 64 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 537 3509 N 1 0 0 1 51 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinLla sinMatraU
+EndChar

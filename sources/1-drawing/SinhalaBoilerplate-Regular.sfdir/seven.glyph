@@ -1,0 +1,31 @@
+StartChar: seven
+Encoding: 55 55 147
+GlifName: seven
+Width: 483
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+460 584 m 257
+ 424 625 l 257
+ 351 619 188 614 45 620 c 257
+ 39 481 l 257
+ 98 485 l 257
+ 104 507 105 554 146 557 c 257
+ 89 549 l 257
+ 400 549 l 257
+ 399 571 l 257
+ 283 473 167 188 132 34 c 257
+ 143 14 186 2 223 2 c 257
+ 269 239 374 476 460 584 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

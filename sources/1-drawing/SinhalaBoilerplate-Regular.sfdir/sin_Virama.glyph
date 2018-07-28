@@ -1,0 +1,32 @@
+StartChar: sinVirama
+Encoding: 796 3530 643
+GlifName: sinV_irama
+Width: 1
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+12 368 m 257
+ 8 503 l 257
+ 16 484 40 461 71 461 c 256
+ 121 461 137 495 137 538 c 256
+ 137 639 18 671 -8 676 c 257
+ -24 666 l 257
+ -27 368 l 257
+ 12 368 l 257
+8 589 m 258
+ 8 611 l 257
+ 43 607 104 594 104 552 c 256
+ 104 531 91 521 71 521 c 256
+ 38 521 8 548 8 589 c 258
+  PathStart: -2
+EndSplineSet
+Validated: 9
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

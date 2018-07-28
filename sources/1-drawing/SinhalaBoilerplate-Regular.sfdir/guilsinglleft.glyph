@@ -1,0 +1,27 @@
+StartChar: guilsinglleft
+Encoding: 283 8249 90
+GlifName: guilsinglleft
+Width: 305
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+216 52 m 257
+ 231 69 241 83 251 99 c 257
+ 209 145 174 190 136 236 c 257
+ 136 217 l 257
+ 185 279 216 311 249 353 c 257
+ 236 367 223 380 212 390 c 257
+ 162 333 91 277 24 221 c 257
+ 121 138 172 92 216 52 c 257
+  PathStart: -2
+EndSplineSet
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,34 @@
+StartChar: L
+Encoding: 76 76 13
+GlifName: L_
+Width: 528
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+494 0 m 257
+ 499 21 498 129 494 163 c 257
+ 437 157 l 257
+ 433 128 422 92 407 63 c 257
+ 369 58 284 52 238 56 c 256
+ 210 59 204 85 203 112 c 256
+ 202 152 203 363 216 518 c 256
+ 219 564 245 568 299 568 c 257
+ 293 615 l 257
+ 228 612 126 609 41 616 c 257
+ 45 569 l 257
+ 99 570 121 547 123 511 c 256
+ 130 377 130 213 119 113 c 256
+ 114 63 89 49 41 49 c 257
+ 47 0 l 257
+ 494 0 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

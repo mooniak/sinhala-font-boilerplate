@@ -1,0 +1,33 @@
+StartChar: sinNd.virama
+Encoding: 617 -1 464
+GlifName: sinN_d.virama
+Width: 540
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 474 3507 N 1 0 0 1 0 0 2
+Refer: 643 3530 N 1 0 0 1 457 40 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.schriftgestaltung.Glyphs.ComponentInfo'
+p4
+(lp5
+(dp6
+S'index'
+p7
+I1
+sS'name'
+p8
+S'sinVirama'
+p9
+sS'alignment'
+p10
+I-1
+sas."
+Ligature2: "sin_virama_1 subtable" sinNda sinVirama
+EndChar

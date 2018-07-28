@@ -1,0 +1,45 @@
+StartChar: sinYIi.post
+Encoding: 806 -1 653
+GlifName: sinY_I_i.post
+Width: 554
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+198 398 m 257
+ 209 452 l 257
+ 172 467 154 499 154 531 c 256
+ 154 579 211 621 301 622 c 256
+ 376 623 460 601 460 544 c 256
+ 460 505 436 473 405 471 c 256
+ 385 470 364 480 364 505 c 256
+ 364 522 380 543 408 545 c 256
+ 440 547 462 539 478 530 c 257
+ 486 553 l 257
+ 486 553 449 577 403 576 c 256
+ 356 575 320 546 320 504 c 256
+ 320 465 346 434 400 434 c 256
+ 455 434 517 477 518 546 c 256
+ 519 633 424 690 324 689 c 256
+ 208 688 119 625 119 523 c 256
+ 119 456 158 421 198 398 c 257
+EndSplineSet
+Refer: 659 -1 N 1 0 0.07 1 -22 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinYa.post'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinYUu.post'
+p7
+s."
+Ligature2: "sin_abvs_2 subtable" sinYa.post sinMatraIi
+EndChar

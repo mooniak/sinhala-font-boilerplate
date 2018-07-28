@@ -1,0 +1,19 @@
+StartChar: sinNnUu
+Encoding: 645 -1 492
+GlifName: sinN_nU_u
+Width: 965
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 493 3499 N 1 0 0 1 0 0 2
+Refer: 420 -1 N 1 0 0 1 864 19 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinNna sinMatraUu
+EndChar

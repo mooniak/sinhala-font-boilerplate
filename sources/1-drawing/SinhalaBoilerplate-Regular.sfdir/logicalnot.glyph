@@ -1,0 +1,25 @@
+StartChar: logicalnot
+Encoding: 172 172 100
+GlifName: logicalnot
+Width: 485
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 258 m 257
+ 399 258 l 257
+ 400 199 399 139 398 79 c 257
+ 454 80 l 257
+ 454 319 l 257
+ 330 315 174 316 42 316 c 257
+ 40 258 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

@@ -1,0 +1,34 @@
+StartChar: sinYUu
+Encoding: 809 -1 656
+GlifName: sinY_U_u
+Width: 705
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+450 -179 m 256
+ 511 -179 580 -202 620 -225 c 257
+ 642 -211 l 257
+ 645 145 l 257
+ 614 124 l 257
+ 594 -175 l 257
+ 619 -183 l 257
+ 596 -152 540 -110 467 -110 c 256
+ 364 -110 296 -181 230 -181 c 256
+ 198 -181 165 -150 165 -103 c 257
+ 144 -96 112 -99 93 -109 c 257
+ 93 -150 125 -220 220 -220 c 256
+ 316 -220 354 -179 450 -179 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 658 3514 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinYa sinMatraUu
+EndChar

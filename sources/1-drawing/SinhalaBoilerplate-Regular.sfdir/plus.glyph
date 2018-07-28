@@ -1,0 +1,28 @@
+StartChar: plus
+Encoding: 43 43 127
+GlifName: plus
+Width: 492
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+214 434 m 257
+ 219 313 217 139 214 19 c 257
+ 290 22 l 257
+ 286 129 286 300 290 437 c 257
+ 214 434 l 257
+59 190 m 257
+ 161 194 312 194 450 190 c 257
+ 457 265 l 257
+ 336 261 179 261 60 265 c 257
+ 59 190 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

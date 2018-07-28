@@ -1,0 +1,19 @@
+StartChar: sinJhUu
+Encoding: 470 -1 317
+GlifName: sinJ_hU_u
+Width: 1159
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 318 3491 N 1 0 0 1 0 0 2
+Refer: 417 -1 N 1 0 0 1 1019 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinJha sinMatraUu
+EndChar

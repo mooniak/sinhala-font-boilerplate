@@ -1,0 +1,28 @@
+StartChar: sinDV.virama
+Encoding: 363 -1 210
+GlifName: sinD_V_.virama
+Width: 755
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+184 25 m 257
+ 173 50 143 123 143 176 c 256
+ 143 269 181 360 277 367 c 257
+ 314 406 l 257
+ 180 406 90 303 90 192 c 256
+ 90 102 130 50 150 18 c 257
+ 161 18 177 20 184 25 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 633 -1 N 1 0 0 1 154 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_2 subtable" sinDVa sinVirama
+EndChar

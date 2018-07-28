@@ -1,0 +1,36 @@
+StartChar: sinUu
+Encoding: 785 3468 632
+GlifName: sinU_u
+Width: 968
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 406 3551 N 1 0 0 1 475 1 2
+Refer: 631 3467 N 1 0 0 1 0 -24 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+sS'com.schriftgestaltung.Glyphs.ComponentInfo'
+p4
+(lp5
+(dp6
+S'index'
+p7
+I0
+sS'name'
+p8
+S'sinMatraLs'
+p9
+sS'alignment'
+p10
+I-1
+sasS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p11
+S'sinU'
+p12
+s."
+EndChar

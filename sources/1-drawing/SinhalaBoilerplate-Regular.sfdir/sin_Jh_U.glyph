@@ -1,0 +1,32 @@
+StartChar: sinJhU
+Encoding: 469 -1 316
+GlifName: sinJ_hU_
+Width: 1159
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1017 -276 m 257
+ 1033 122 l 257
+ 1005 122 l 257
+ 972 -205 l 257
+ 615 -229 l 258
+ 576 -231 557 -210 557 -183 c 256
+ 557 -155 596 -122 658 -138 c 257
+ 662 -119 l 257
+ 662 -119 632 -95 597 -95 c 256
+ 535 -95 504 -148 503 -186 c 256
+ 502 -229 528 -276 630 -276 c 258
+ 1017 -276 l 257
+EndSplineSet
+Refer: 318 3491 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinJha sinMatraU
+EndChar

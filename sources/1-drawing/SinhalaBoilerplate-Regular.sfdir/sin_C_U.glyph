@@ -1,0 +1,29 @@
+StartChar: sinCU
+Encoding: 335 -1 182
+GlifName: sinC_U_
+Width: 640
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+605 -205 m 257
+ 600 211 l 257
+ 573 209 l 257
+ 553 -137 l 257
+ 449 -151 379 -160 285 -158 c 256
+ 233 -157 211 -109 211 -82 c 257
+ 189 -77 148 -93 137 -105 c 257
+ 145 -147 185 -205 287 -205 c 258
+ 605 -205 l 257
+EndSplineSet
+Refer: 184 3488 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_blws subtable" sinCa sinMatraU
+EndChar

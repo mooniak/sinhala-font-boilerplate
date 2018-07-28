@@ -1,0 +1,35 @@
+StartChar: sinMatraIi.alt2
+Encoding: 556 -1 403
+GlifName: sinM_atraI_i.alt2
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-14 416 m 257
+ -62 406 -179 423 -179 491 c 256
+ -179 532 -130 562 -30 564 c 256
+ 54 566 153 555 153 495 c 256
+ 153 454 128 420 96 418 c 256
+ 74 417 52 428 52 454 c 256
+ 52 472 69 494 99 496 c 256
+ 132 498 156 490 172 480 c 257
+ 181 505 l 257
+ 181 505 142 530 93 529 c 256
+ 44 528 6 497 6 448 c 256
+ 6 412 33 379 90 379 c 256
+ 148 379 214 424 215 497 c 256
+ 216 589 126 649 21 648 c 256
+ -112 647 -216 580 -216 483 c 256
+ -216 379 -92 349 -14 349 c 257
+ -14 416 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

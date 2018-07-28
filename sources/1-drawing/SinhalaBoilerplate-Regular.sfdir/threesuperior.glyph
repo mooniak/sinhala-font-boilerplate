@@ -1,0 +1,43 @@
+StartChar: threesuperior
+Encoding: 179 179 671
+GlifName: threesuperior
+Width: 273
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+237 518 m 256
+ 237 569 189 613 104 601 c 257
+ 117 594 l 257
+ 196 613 224 653 224 701 c 256
+ 224 745 196 772 129 774 c 256
+ 91 775 47 764 24 753 c 257
+ 24 753 23 745 23 732 c 256
+ 23 721 24 706 25 693 c 257
+ 60 697 l 257
+ 66 730 80 745 112 745 c 256
+ 142 745 166 732 166 697 c 256
+ 166 652 120 619 54 610 c 257
+ 58 579 l 257
+ 152 581 183 555 183 513 c 256
+ 183 477 163 448 119 448 c 256
+ 79 448 49 470 37 493 c 257
+ 29 477 24 448 24 427 c 256
+ 24 424 25 422 25 420 c 257
+ 42 416 69 411 102 411 c 256
+ 178 411 237 449 237 518 c 256
+  PathStart: -1
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'three'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+EndChar

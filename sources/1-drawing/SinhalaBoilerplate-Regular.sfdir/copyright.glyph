@@ -1,0 +1,31 @@
+StartChar: copyright
+Encoding: 169 169 51
+GlifName: copyright
+Width: 795
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+80 287 m 256
+ 80 462 223 604 398 604 c 256
+ 573 604 715 462 715 287 c 256
+ 715 112 573 -31 398 -31 c 256
+ 223 -31 80 112 80 287 c 256
+  PathStart: -2
+772 287 m 256
+ 772 494 604 661 398 661 c 256
+ 191 661 23 494 23 287 c 256
+ 23 80 191 -88 398 -88 c 256
+ 604 -88 772 80 772 287 c 256
+  PathStart: -2
+EndSplineSet
+Refer: 45 99 N 0.924 0 0 0.924 165 73 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

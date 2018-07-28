@@ -1,0 +1,30 @@
+StartChar: o
+Encoding: 111 111 113
+GlifName: o
+Width: 509
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+474 249 m 256
+ 479 409 397 473 279 474 c 256
+ 138 474 32 359 34 189 c 256
+ 35 69 101 -12 230 -14 c 256
+ 402 -17 470 114 474 249 c 256
+  PathStart: -2
+132 245 m 256
+ 136 389 209 425 245 428 c 256
+ 330 436 387 350 383 229 c 256
+ 380 129 340 42 265 34 c 256
+ 177 24 128 120 132 245 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

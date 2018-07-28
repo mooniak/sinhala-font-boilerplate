@@ -1,0 +1,33 @@
+StartChar: notequal
+Encoding: 289 8800 110
+GlifName: notequal
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+25 263 m 257
+ 132 266 258 266 402 263 c 257
+ 409 337 l 257
+ 283 333 152 333 27 337 c 257
+ 25 263 l 257
+25 123 m 257
+ 132 127 259 127 403 123 c 257
+ 407 198 l 257
+ 281 194 153 194 28 198 c 257
+ 25 123 l 257
+144 8 m 257
+ 206 150 300 368 341 449 c 257
+ 274 448 l 257
+ 245 373 142 146 76 8 c 257
+ 144 8 l 257
+EndSplineSet
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

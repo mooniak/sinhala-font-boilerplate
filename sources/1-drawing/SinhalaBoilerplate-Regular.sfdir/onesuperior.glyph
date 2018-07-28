@@ -1,0 +1,38 @@
+StartChar: onesuperior
+Encoding: 185 185 117
+GlifName: onesuperior
+Width: 221
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+151 494 m 256
+ 152 583 153 738 157 770 c 257
+ 157 770 70 747 26 748 c 257
+ 28 714 l 257
+ 60 714 89 701 90 681 c 257
+ 93 656 95 564 90 490 c 256
+ 88 460 65 453 39 454 c 257
+ 42 414 l 257
+ 198 414 l 257
+ 193 455 l 257
+ 181 455 150 452 151 494 c 256
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'one'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'one'
+p7
+s."
+EndChar

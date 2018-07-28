@@ -1,0 +1,24 @@
+StartChar: bullet
+Encoding: 258 8226 43
+GlifName: bullet
+Width: 462
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+331 314 m 260
+ 331 377 283 417 225 417 c 260
+ 163 417 118 373 119 310 c 260
+ 119 256 157 206 228 206 c 260
+ 283 206 331 249 331 314 c 260
+  PathStart: -2
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

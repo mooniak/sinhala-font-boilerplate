@@ -1,0 +1,20 @@
+StartChar: sinTRIi
+Encoding: 739 -1 586
+GlifName: sinT_R_I_i
+Width: 825
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 402 -1 N 1 0 0 1 323 11 2
+Refer: 602 3501 N 1 0 0 1 12 0 2
+Refer: 547 -1 N 1 0 0 1 491 12 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_4 subtable" sinTRa sinMatraIi
+EndChar

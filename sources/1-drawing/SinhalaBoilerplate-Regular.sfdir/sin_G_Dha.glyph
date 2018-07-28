@@ -1,0 +1,40 @@
+StartChar: sinGDha
+Encoding: 420 -1 267
+GlifName: sinG_D_ha
+Width: 1081
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+445 165 m 256
+ 452 234 408 290 340 289 c 257
+ 330 249 l 257
+ 357 248 413 219 406 164 c 256
+ 397 101 305 78 236 79 c 256
+ 136 79 81 142 92 218 c 256
+ 109 332 202 363 293 363 c 257
+ 299 372 310 430 306 447 c 257
+ 213 446 68 352 52 195 c 256
+ 39 75 97 -12 244 -9 c 256
+ 359 -7 437 77 445 165 c 256
+  PathStart: -2
+330 170 m 257
+ 329 290 412 366 566 366 c 256
+ 632 366 691 332 697 323 c 257
+ 711 347 720 363 732 382 c 257
+ 716 401 648 439 577 439 c 256
+ 406 439 307 332 293 170 c 257
+ 305 168 316 169 330 170 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 248 3504 N 1 0 0 1 401 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_akhands subtable" sinGa sinVirama zerowidthjoiner sinDha
+EndChar

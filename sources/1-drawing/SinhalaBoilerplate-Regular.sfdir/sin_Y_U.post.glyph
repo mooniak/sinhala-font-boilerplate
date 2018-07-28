@@ -1,0 +1,37 @@
+StartChar: sinYU.post
+Encoding: 808 -1 655
+GlifName: sinY_U_.post
+Width: 557
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+505 -215 m 257
+ 500 201 l 257
+ 470 199 l 257
+ 450 -147 l 257
+ 366 -161 299 -169 205 -168 c 256
+ 153 -167 131 -119 131 -92 c 257
+ 109 -87 68 -103 57 -115 c 257
+ 65 -157 105 -215 207 -215 c 258
+ 505 -215 l 257
+EndSplineSet
+Refer: 659 -1 N 1 0 0.07 1 -22 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinYUu.post'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p6
+S'sinYUu.post'
+p7
+s."
+Ligature2: "sin_blws subtable" sinYa.post sinMatraU
+EndChar

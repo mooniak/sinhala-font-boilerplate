@@ -1,0 +1,37 @@
+StartChar: sinGIi
+Encoding: 422 -1 269
+GlifName: sinG_I_i
+Width: 763
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+474 452 m 257
+ 426 442 289 475 289 543 c 256
+ 289 584 338 614 428 616 c 256
+ 512 618 631 587 631 527 c 256
+ 631 486 606 452 574 450 c 256
+ 552 449 530 460 530 486 c 256
+ 530 504 547 526 577 528 c 256
+ 610 530 634 522 650 512 c 257
+ 659 537 l 257
+ 659 537 620 562 571 561 c 256
+ 522 560 484 529 484 480 c 256
+ 484 444 511 411 568 411 c 256
+ 626 411 692 456 693 529 c 256
+ 694 611 611 670 509 680 c 256
+ 371 693 252 632 252 535 c 256
+ 252 431 386 401 464 401 c 257
+ 474 452 l 257
+EndSplineSet
+Refer: 276 3484 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_2 subtable" sinGa sinMatraIi
+EndChar

@@ -1,0 +1,34 @@
+StartChar: z
+Encoding: 122 122 682
+GlifName: z
+Width: 438
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+403 0 m 257
+ 413 42 414 91 413 139 c 257
+ 411 139 375 135 367 135 c 257
+ 367 96 361 62 350 60 c 256
+ 293 51 237 52 230 52 c 256
+ 146 52 156 68 186 116 c 256
+ 201 139 373 378 416 420 c 257
+ 411 460 l 257
+ 355 457 172 453 54 460 c 257
+ 50 417 49 363 52 322 c 257
+ 99 326 l 257
+ 98 342 105 387 114 401 c 257
+ 151 407 252 411 295 404 c 257
+ 263 349 111 129 28 45 c 257
+ 33 0 l 257
+ 403 0 l 257
+EndSplineSet
+Validated: 41
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+EndChar

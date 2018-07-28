@@ -1,0 +1,48 @@
+StartChar: sinAi
+Encoding: 305 3475 152
+GlifName: sinA_i
+Width: 1151
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 254 3473 N 1 0 0 1 471 0 2
+Refer: 393 3545 N 1 0 0 1 0 -7 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'sinE'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+sS'com.schriftgestaltung.Glyphs.ComponentInfo'
+p6
+(lp7
+(dp8
+S'index'
+p9
+I0
+sS'name'
+p10
+S'sinE'
+p11
+sS'alignment'
+p12
+I-1
+sa(dp13
+g9
+I1
+sg10
+S'sinMatraE'
+p14
+sg12
+I-1
+sasS'com.schriftgestaltung.Glyphs.leftMetricsKey'
+p15
+S'sinMatraE'
+p16
+s."
+EndChar

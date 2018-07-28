@@ -1,0 +1,38 @@
+StartChar: sinNdj.virama
+Encoding: 629 -1 476
+GlifName: sinN_dj.virama
+Width: 731
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+459 293 m 257
+ 459 593 l 257
+ 468 574 489 555 520 555 c 256
+ 569 555 586 589 586 629 c 256
+ 586 711 512 757 444 768 c 257
+ 433 758 l 257
+ 426 293 l 257
+ 459 293 l 257
+463 661 m 258
+ 463 704 l 257
+ 499 699 557 683 557 640 c 256
+ 557 616 544 603 515 603 c 256
+ 484 603 463 632 463 661 c 258
+  PathStart: -2
+EndSplineSet
+Refer: 483 3494 N 1 0 0 1 0 0 2
+Validated: 5
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.rightMetricsKey'
+p2
+S'=sinNdja'
+p3
+sS'com.schriftgestaltung.Glyphs.lastChange'
+p4
+S'2018-07-27 16:12:40 +0000'
+p5
+s."
+Ligature2: "sin_virama_1 subtable" sinNdja sinVirama
+EndChar

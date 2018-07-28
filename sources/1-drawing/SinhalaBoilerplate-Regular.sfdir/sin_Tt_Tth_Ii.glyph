@@ -1,0 +1,37 @@
+StartChar: sinTtTthIi
+Encoding: 771 -1 618
+GlifName: sinT_tT_thI_i
+Width: 790
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+399 570 m 257
+ 387 570 297 574 297 644 c 256
+ 297 668 325 711 417 718 c 257
+ 522 721 653 708 662 644 c 256
+ 666 617 650 598 619 595 c 257
+ 597 594 579 606 580 633 c 257
+ 580 655 602 670 623 674 c 256
+ 657 680 677 663 677 663 c 257
+ 686 688 l 257
+ 686 688 653 708 613 705 c 257
+ 589 702 534 681 531 631 c 256
+ 528 584 556 546 615 550 c 256
+ 673 554 715 597 717 648 c 256
+ 720 741 589 786 489 786 c 256
+ 344 786 268 727 268 638 c 256
+ 268 578 328 534 411 526 c 257
+ 399 570 l 257
+EndSplineSet
+Refer: 621 -1 N 1 0 0 1 0 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_abvs_6 subtable" sinTtTtha sinMatraIi
+EndChar

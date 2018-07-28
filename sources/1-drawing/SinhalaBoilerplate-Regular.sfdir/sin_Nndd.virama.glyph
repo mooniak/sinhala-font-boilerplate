@@ -1,0 +1,31 @@
+StartChar: sinNndd.virama
+Encoding: 647 -1 494
+GlifName: sinN_ndd.virama
+Width: 820
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+137 -17 m 257
+ 109 15 99 92 108 159 c 256
+ 124 286 204 373 298 382 c 257
+ 303 383 l 257
+ 390 394 l 257
+ 387 421 l 257
+ 374 429 346 427 323 427 c 256
+ 189 427 65 325 51 158 c 256
+ 45 82 70 12 103 -24 c 257
+ 122 -24 132 -20 137 -17 c 257
+  PathStart: -2
+EndSplineSet
+Refer: 222 -1 N 1 0 0 1 131 0 2
+Validated: 37
+PickledDataWithLists: "(dp1
+S'com.schriftgestaltung.Glyphs.lastChange'
+p2
+S'2018-07-27 16:12:40 +0000'
+p3
+s."
+Ligature2: "sin_virama_1 subtable" sinNndda sinVirama
+EndChar
