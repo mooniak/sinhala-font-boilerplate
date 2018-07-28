@@ -1,0 +1,12 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# font editors
+*(Autosaved).glyphs
+/build
+
+# project
+/fontester*
+/TEMP
