@@ -1,0 +1,214 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem sinh dflt;
+
+feature abvs {
+script sinh;
+sub sinBa sinRakar sinMatraIi by sinBRIi;
+sub sinBa sinRakar sinMatraI by sinBRI;
+sub sinBa sinRakar sinVirama by sinBR.virama;
+sub sinBa sinRakar by sinBRa;
+sub sinBa sinVirama by sinBa.virama;
+sub sinBa sinMatraIi by sinBIi;
+sub sinBa sinMatraI by sinBI;
+sub sinCa sinRakar sinMatraIi by sinCRIi;
+sub sinCa sinRakar sinMatraI by sinCRI;
+sub sinCa sinRakar sinVirama by sinCR.virama;
+sub sinCa sinRakar by sinCRa;
+sub sinCa sinVirama by sinCa.virama;
+sub sinCa sinMatraIi by sinCIi;
+sub sinCa sinMatraI by sinCI;
+sub sinCha sinRakar sinMatraIi by sinChRIi;
+sub sinCha sinRakar sinMatraI by sinChRI;
+sub sinCha sinRakar sinVirama by sinChR.virama;
+sub sinCha sinRakar by sinChRa;
+sub sinCha sinVirama by sinCha.virama;
+sub sinCha sinMatraIi by sinChIi;
+sub sinCha sinMatraI by sinChI;
+sub sinDa sinMatraUu by sinDUu;
+sub sinDa sinMatraU by sinDU;
+sub sinDa sinRakar by sinDRa;
+sub sinDa sinRakar by sinDRa;
+sub sinDda sinRakar sinMatraIi by sinDdRIi;
+sub sinDda sinRakar sinMatraI by sinDdRI;
+sub sinDda sinRakar sinVirama by sinDdR.virama;
+sub sinDda sinRakar by sinDdRa;
+sub sinDda sinVirama by sinDda.virama;
+sub sinDda sinMatraIi by sinDdIi;
+sub sinDda sinMatraI by sinDdI;
+sub sinDdha sinRakar sinMatraIi by sinDdhRIi;
+sub sinDdha sinRakar sinMatraI by sinDdhRI;
+sub sinDdha sinRakar by sinDdhRa;
+sub sinDdha sinMatraIi by sinDdhIi;
+sub sinDdha sinMatraI by sinDdhI;
+sub sinDha sinRakar sinMatraIi by sinDhRIi;
+sub sinDha sinRakar sinMatraI by sinDhRI;
+sub sinDha sinRakar sinVirama by sinDhR.virama;
+sub sinDha sinRakar by sinDhRa;
+sub sinDha sinVirama by sinDha.virama;
+sub sinDha sinMatraIi by sinDhIi;
+sub sinDha sinMatraI by sinDhI;
+sub sinJa sinRakar sinMatraIi by sinJRIi;
+sub sinJa sinRakar sinMatraI by sinJRI;
+sub sinJa sinRakar sinVirama by sinJR.virama;
+sub sinJa sinRakar by sinJRa;
+sub sinJa sinVirama by sinJa.virama;
+sub sinJa sinMatraIi by sinJIi;
+sub sinJa sinMatraI by sinJI;
+sub sinJha sinRakar sinMatraIi by sinJhRIi;
+sub sinJha sinRakar sinMatraI by sinJhRI;
+sub sinJha sinRakar sinVirama by sinJhR.virama;
+sub sinJha sinRakar by sinJhRa;
+sub sinJha sinVirama by sinJha.virama;
+sub sinJha sinMatraIi by sinJhIi;
+sub sinJha sinMatraI by sinJhI;
+sub sinJnya sinMatraUu by sinJnyUu;
+sub sinJnya sinMatraU by sinJnyU;
+sub sinKa sinRakar sinMatraI by sinKRI;
+sub sinKa sinRakar sinVirama by sinKR.virama;
+sub sinKa sinRakar sinMatraIi by sinKRIi;
+sub sinKa sinVirama by sinKa.virama;
+sub sinKa sinMatraUu by sinKUu;
+sub sinKa sinMatraU by sinKU;
+sub sinKa sinMatraIi by sinKIi;
+sub sinKa sinMatraI by sinKI;
+sub sinKa sinRakar by sinKRa;
+sub sinKha sinRakar sinMatraIi by sinKhRIi;
+sub sinKha sinRakar sinMatraI by sinKhRI;
+sub sinKha sinRakar sinVirama by sinKhR.virama;
+sub sinKha sinRakar by sinKhRa;
+sub sinKha sinVirama by sinKha.virama;
+sub sinKha sinMatraIi by sinKhIi;
+sub sinKha sinMatraI by sinKhI;
+sub sinLa sinMatraUu by sinLUu;
+sub sinLa sinMatraU by sinLU;
+sub sinLla sinMatraUu by sinLlUu;
+sub sinLla sinMatraU by sinLlU;
+sub sinMa sinRakar sinMatraIi by sinMRIi;
+sub sinMa sinRakar sinMatraI by sinMRI;
+sub sinMa sinRakar sinVirama by sinMR.virama;
+sub sinMa sinRakar by sinMRa;
+sub sinMa sinVirama by sinMa.virama;
+sub sinMa sinMatraIi by sinMIi;
+sub sinMa sinMatraI by sinMI;
+sub sinMba sinVirama by sinMba.virama;
+sub sinMba sinMatraIi by sinMbIi;
+sub sinMba sinMatraI by sinMbI;
+sub sinNda sinMatraUu by sinNdUu;
+sub sinNda sinMatraU by sinNdU;
+sub sinNga sinVirama by sinNga.virama;
+sub sinNna sinVirama by sinNna.virama;
+sub sinNna sinMatraIi by sinNnIi;
+sub sinNna sinMatraI by sinNnI;
+sub sinNndda sinVirama by sinNndda.virama;
+sub sinNndda sinMatraIi by sinNnddIi;
+sub sinNndda sinMatraI by sinNnddI;
+sub sinNya sinMatraUu by sinNyUu;
+sub sinNya sinMatraU by sinNyU;
+sub sinPha sinRakar sinMatraIi by sinPhRIi;
+sub sinPha sinRakar sinMatraI by sinPhRI;
+sub sinPha sinRakar by sinPhRa;
+sub sinPha sinMatraIi by sinPhIi;
+sub sinPha sinMatraI by sinPhI;
+sub sinRa sinVirama by sinRa.virama;
+sub sinRa sinMatraUu by sinRUu;
+sub sinRa sinMatraU by sinRU;
+sub sinRa sinMatraIi by sinRIi;
+sub sinRa sinMatraI by sinRI;
+sub sinRa sinMatraAe by sinRAe;
+sub sinRa sinMatraAae by sinRAae;
+sub sinSha sinRakar sinMatraIi by sinShRIi;
+sub sinTha sinRakar sinMatraIi by sinThRIi;
+sub sinTha sinRakar sinMatraI by sinThRI;
+sub sinTha sinRakar by sinThRa;
+sub sinTha sinMatraIi by sinThIi;
+sub sinTha sinMatraI by sinThI;
+sub sinTta sinRakar sinMatraIi by sinTtRIi;
+sub sinTta sinRakar sinMatraI by sinTtRI;
+sub sinTta sinRakar sinVirama by sinTtR.virama;
+sub sinTta sinRakar by sinTtRa;
+sub sinTta sinVirama by sinTta.virama;
+sub sinTta sinMatraIi by sinTtIi;
+sub sinTta sinMatraI by sinTtI;
+sub sinTtha sinRakar sinMatraIi by sinTthRIi;
+sub sinTtha sinRakar sinMatraI by sinTthRI;
+sub sinTtha sinRakar by sinTthRa;
+sub sinTtha sinMatraIi by sinTthIi;
+sub sinTtha sinMatraI by sinTthI;
+sub sinVa sinRakar sinMatraIi by sinVRIi;
+sub sinVa sinRakar sinMatraI by sinVRI;
+sub sinVa sinRakar sinVirama by sinVR.virama;
+sub sinVa sinRakar by sinVRa;
+sub sinVa sinVirama by sinVa.virama;
+sub sinVa sinMatraIi by sinVIi;
+sub sinVa sinMatraI by sinVI;
+sub yans sinMatraUu by yans.uu;
+sub yans sinMatraU by yans.u;
+} abvs;
+
+feature akhn {
+script sinh;
+sub sinKa sinVirama zerowidthjoiner sinSsa by sinKSsa;
+sub sinNa sinVirama zerowidthjoiner sinDa sinMatraUu by sinNDUu;
+sub sinNa sinVirama zerowidthjoiner sinDa sinMatraU by sinNDU;
+sub sinNa sinVirama zerowidthjoiner sinDa by sinNDa;
+} akhn;
+
+feature blws {
+script sinh;
+lookup blws0 {
+  lookupflag 0;
+    sub [sinCa sinCha sinJa sinTta sinTha sinPa sinPha sinVa sinSsa sinFa ] [sinMatraU sinMatraUu ]'  by [_u1 _uu1 ];
+} blws0;
+
+lookup blws1 {
+  lookupflag 0;
+    sub [sinJha sinNna ] [sinMatraU sinMatraUu ]'  by [_u3 _uu3 ];
+} blws1;
+
+lookup blws2 {
+  lookupflag 0;
+    sub [sinKa sinGa sinNnga sinTa sinBha sinSha ] [sinMatraU sinMatraUu ]'  by [_u4 _uu4 ];
+} blws2;
+
+lookup blws3 {
+  lookupflag 0;
+    sub [sinRakar ] [sinMatraU sinMatraUu ]'  by [_u5 _uu5 ];
+} blws3;
+
+lookup blws4 {
+  lookupflag 0;
+    sub [sinDa sinNda ] [sinMatraI sinMatraIi ]'  by [_i1 _ii1 ];
+} blws4;
+
+lookup blws5 {
+  lookupflag 0;
+    sub [sinTa sinPa sinLa sinSsa sinLla ] [sinMatraI sinMatraIi ]'  by [_i2 _ii2 ];
+} blws5;
+} blws;
+
+feature pstf {
+script sinh;
+sub sinMatraAu by sinMatraLs;
+sub sinMatraEe by sinVirama;
+sub sinMatraO by sinMatraAa;
+sub sinMatraOo by _oo2;
+} pstf;
+
+feature vatu {
+script sinh;
+sub sinVirama zerowidthjoiner sinYa by yans;
+sub sinVirama zerowidthjoiner sinRa by sinRakar;
+sub sinVirama zerowidthjoiner by sinVirama;
+} vatu;
+
+feature aalt {
+# automatic
+feature abvs;
+feature akhn;
+feature blws;
+feature pstf;
+feature vatu;
+} aalt;
+
